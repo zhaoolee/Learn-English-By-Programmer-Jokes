@@ -19,12 +19,25 @@ def csv_to_html_table(csv_filename):
     :return: 包含HTML表格的字符串
     """
     with open(csv_filename, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
+        reader = csv.reader(f, quotechar='"', delimiter=',')
         headers = next(reader)
-        rows = list(reader)
+        rows = []
+        for row in reader:
+            if len(row) != len(headers):
+                print(f"Warning: Row {reader.line_num} has {len(row)} columns instead of {len(headers)}.")
+                print(f"Row data: {row}")
+                # 如果列数不匹配，我们可以选择跳过这一行或者进行某种修复
+                # 这里我们选择跳过这一行
+                continue
+            rows.append(row)
+
+    print(f"Headers: {headers}")
+    print(f"Number of columns: {len(headers)}")
+    print(f"COLUMN_WIDTHS: {COLUMN_WIDTHS}")
 
     # 确保COLUMN_WIDTHS至少与headers长度相同
     column_widths = COLUMN_WIDTHS + [None] * (len(headers) - len(COLUMN_WIDTHS))
+    print(f"Adjusted column_widths: {column_widths}")
 
     # 创建表格
     table = '<table>\n'
@@ -32,15 +45,15 @@ def csv_to_html_table(csv_filename):
     # 添加表头
     table += '<tr>'
     for i, header in enumerate(headers):
-        width_attr = f' width="{column_widths[i]}"' if column_widths[i] else ''
+        width_attr = f' width="{column_widths[i]}"' if i < len(column_widths) and column_widths[i] else ''
         table += f'<th{width_attr}><span>{html.escape(header)}</span></th>'
     table += '</tr>\n'
 
     # 添加数据行
-    for row in rows:
+    for row_index, row in enumerate(rows):
         table += '<tr>'
         for i, cell in enumerate(row):
-            width_attr = f' width="{column_widths[i]}"' if column_widths[i] else ''
+            width_attr = f' width="{column_widths[i]}"' if i < len(column_widths) and column_widths[i] else ''
             # 为ID列添加id属性
             if i == 0:  # 假设ID是第一列
                 table += f'<td{width_attr} id="quote-{cell}"><span>{html.escape(cell)}</span></td>'
