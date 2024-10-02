@@ -41,7 +41,11 @@ def csv_to_html_table(csv_filename):
         table += '<tr>'
         for i, cell in enumerate(row):
             width_attr = f' width="{column_widths[i]}"' if column_widths[i] else ''
-            table += f'<td{width_attr}><span>{html.escape(cell)}</span></td>'
+            # 为ID列添加id属性
+            if i == 0:  # 假设ID是第一列
+                table += f'<td{width_attr} id="quote-{cell}"><span>{html.escape(cell)}</span></td>'
+            else:
+                table += f'<td{width_attr}><span>{html.escape(cell)}</span></td>'
         table += '</tr>\n'
 
     table += '</table>'
