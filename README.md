@@ -2,7 +2,7 @@
 
 Brilliantly witty programmer jokes: The perfect way to learn English! 程序员才华横溢的段子，用来学英语，合适的不得了!
 
-![Cat](https://github.com/zhaoolee/Learn-English-By-Programmer-Jokes/blob/main/docs/_media/bit_cat.jpeg)
+![Cat](https://raw.githubusercontent.com/zhaoolee/Learn-English-By-Programmer-Jokes/refs/heads/main/docs/_media/bit_cat.jpeg)
 
 ===🔆===
 <table>
