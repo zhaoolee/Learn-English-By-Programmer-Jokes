@@ -29,7 +29,7 @@ def update_readme_with_word_frequency(readme_path, csv_path):
     # 生成Markdown格式的词频表格
     table = "| Rank | Word | Frequency | Quotes |\n|------|------|-----------|--------|\n"
     for rank, (word, count) in enumerate(all_words, 1):
-        quote_links = ', '.join([f'<a href="#quote-{id}" onclick="event.preventDefault(); window.location.hash=\'quote-{id}\'; window.location.reload();">{id}</a>' for id in word_data[word]])
+        quote_links = ', '.join([f'<a href="#/README?id=quote-{id}">{id}</a>' for id in word_data[word]])
         table += f"| {rank} | {word} | {count} | {quote_links} |\n"
     
     # 创建包含折叠部分的Markdown内容
