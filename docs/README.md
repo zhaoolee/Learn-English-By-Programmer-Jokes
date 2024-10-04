@@ -2,7 +2,24 @@
 
 Brilliantly witty programmer jokes: The perfect way to learn English! 程序员才华横溢的段子，用来学英语，合适的不得了!
 
-![Cat](https://raw.githubusercontent.com/zhaoolee/Learn-English-By-Programmer-Jokes/refs/heads/main/docs/_media/bit_cat.jpeg)
+![bill-jobs](https://raw.githubusercontent.com/zhaoolee/Learn-English-By-Programmer-Jokes/refs/heads/main/docs/_media/bill-jobs.jpg)
+
+我很喜欢阮一峰老师的 **[科技爱好者周刊](https://github.com/ruanyf/weekly)** 的 **言论** 部分，里面的内容言简意赅，比如**比特币其实只是一个计算机程序。这个程序连接到其他运行该程序的计算机，所有计算机都共享一个文件，该文件称为区块链**，让不懂技术的人也能豁然开朗。
+
+好的**言论**有洞悉事物的本质的魔力，甚至能洞悉未来，比如**任何足够先进的技术都与魔法无异**，这句话是克拉克的第三定律，现在AI技术的发展，已经有点魔法的味道了。
+
+
+但**科技爱好者专栏**的**言论**被分散到每一期周刊里，想查看言论部分，要不断翻网页，而且有时候还会忘记在哪一期看到了某个言论。
+
+在这里，我整了个**程序员相关言论**的集合，方便阅读和查找，而且附上英语原文，做了个分词统计程序，可以统计哪些词语经常出现，也方便学习英文。学语言，好句子胜过好短语，好短语胜过死记硬背单词。
+
+这里收纳的言论相当于合订本，合订本的魅力之一就是打脸，比如乔布斯的**没人会想买那么大的手机**。**打脸除了带来乐子，也能让我们不迷信言论**，身段灵活，实事求是，才是科技爱好者应有的姿态。
+
+仓库地址：https://github.com/zhaoolee/Learn-English-By-Programmer-Jokes/
+
+Web地址：https://zhaoolee.com/Learn-English-By-Programmer-Jokes/
+
+源数据地址：https://raw.githubusercontent.com/zhaoolee/Learn-English-By-Programmer-Jokes/refs/heads/main/jokes_with_id.csv
 
 ===🔆===
 <table>
@@ -171,19 +188,21 @@ Brilliantly witty programmer jokes: The perfect way to learn English! 程序员�
 <tr><td width="100" id="quote-162"><span>162</span></td><td width="200"><span>Serverless computing is like ordering food delivery: you get what you want without worrying about the kitchen, but don&#x27;t be surprised if your pizza arrives cold and expensive.</span></td><td width="200"><span>无服务器计算就像订外卖：你得到想要的东西而不用操心厨房，但别惊讶你的披萨送到时又冷又贵。</span></td><td width="150"><span>Adrian Cockcroft</span></td><td><span>Adrian Cockcroft是云计算领域的知名专家。这个比喻巧妙地描述了无服务器计算的特点：开发者可以专注于代码而不用管理服务器，就像订外卖不用关心厨房一样。然而，&#x27;冷的且昂贵的披萨&#x27;暗示了无服务器计算可能存在的性能问题和潜在的高成本。这个比喻既展现了无服务器计算的便利性，又提醒人们注意其潜在的缺点。</span></td></tr>
 <tr><td width="100" id="quote-163"><span>163</span></td><td width="200"><span>The Turing Test for AI is like a beauty pageant where the contestants are wearing masks and communicating through translators.</span></td><td width="200"><span>AI的图灵测试就像一场选美比赛，参赛者都戴着面具并通过翻译交流。</span></td><td width="150"><span>Toby Walsh</span></td><td><span>Toby Walsh是人工智能领域的著名学者。这个比喻巧妙地描述了图灵测试的本质和局限性。&#x27;戴着面具&#x27;暗示了AI在测试中可能掩盖其非人类的本质，而&#x27;通过翻译交流&#x27;则反映了人类与AI之间的沟通障碍。这个比喻不仅幽默，还深刻地质疑了图灵测试作为衡量AI智能的有效性，暗示了判断真正的人工智能可能需要更复杂的标准。</span></td></tr>
 <tr><td width="100" id="quote-164"><span>164</span></td><td width="200"><span>The Metaverse is like a digital costume party where everyone&#x27;s invited, but half the guests can&#x27;t figure out how to put on their VR headsets.</span></td><td width="200"><span>元宇宙就像一场数字化的化妆舞会，每个人都被邀请了，但一半的客人还不知道怎么戴上VR头盔。</span></td><td width="150"><span>Philip Rosedale</span></td><td><span>Philip Rosedale是虚拟世界平台Second Life的创始人。这个比喻生动地描绘了元宇宙的愿景和现实之间的差距。&#x27;每个人都被邀请&#x27;反映了元宇宙的开放性和包容性，而&#x27;一半的客人还不知道怎么戴上VR头盔&#x27;则幽默地指出了当前技术和用户接受度的局限。这个比喻既展现了元宇宙的潜力，又提醒人们注意其实现过程中的实际挑战。</span></td></tr>
+<tr><td width="100" id="quote-165"><span>165</span></td><td width="200"><span>People were doing &#x27;SSR&#x27; with PHP on the server-side 30 years ago, and still do today (can you imagine just how much progress that platform has made, and how much collective knowledge has been developed around it?). It&#x27;s just not hip anymore, because it wasn&#x27;t invented within the past 36 months.</span></td><td width="200"><span>SSR（服务端渲染）是一个新名词，但是30年前，人们就在服务端使用 PHP 进行SSR&quot;了，并且积累了这方面的很多知识。可是 PHP 的这种做法不再时髦了，哪怕它跟现在的做法并没有本质区别，主要原因大概是它不是在最近36个月内发明的。&quot;</span></td><td width="150"><span>csmpltn</span></td><td><span>时尚是一个循环，新技术也是一个循环</span></td></tr>
 <tr><td width="100" id="quote-166"><span>166</span></td><td width="200"><span>Imagine a world with 1Tb/s internet. What would change? Ads would get bigger and more annoying.</span></td><td width="200"><span>如果网速达到1TB每秒hui会发生什么？广告会变得更大更烦人。</span></td><td width="150"><span>surgical_fire</span></td><td><span>广告商总是能找到新的方式来打扰我们</span></td></tr>
 <tr><td width="100" id="quote-167"><span>167</span></td><td width="200"><span>Top 5 Product and Management skills: SQL, Excel, Clear Communication, Story, Prioritization</span></td><td width="200"><span>一个好的领导（或者产品经理），应该具备五项技能：SQL、Excel、简洁写作、讲故事、区分优先级。</span></td><td width="150"><span>Jason Warner</span></td><td><span>这五项技能是在任何行业中都非常重要的</span></td></tr>
 <tr><td width="100" id="quote-168"><span>168</span></td><td width="200"><span>CERN still make large use of tape based storage (since it&#x27;s durable, it&#x27;ll still work in 20 years of being at rest, and if it tears, it&#x27;s taped back together and only a few files are lost!)</span></td><td width="200"><span>CERN (欧洲核子研究组织) 仍然大量使用基于磁带的存储系统（因为它耐用，在闲置20年后仍能正常工作，而且如果磁带撕裂了，可以重新粘合，只会丢失少量文件！）</span></td><td width="150"><span>Remy Sharp</span></td><td><span>磁带存储在某些情况下仍然是最好的选择</span></td></tr>
 <tr><td width="100" id="quote-169"><span>169</span></td><td width="200"><span>We take your privacy and security seriously. Actually, The truth is most companies don’t care about the privacy or security of your data. They care about having to explain to their customers that their data was stolen.</span></td><td width="200"><span> 我们非常重视您的隐私和安全。事实上，大多数公司并不关心您的数据隐私或安全。而是为了数据被盗时，他们有一个向客户解释的说辞</span></td><td width="150"><span>Zack Whittaker</span></td><td><span>隐私加环保简直是绝杀，请不要提充电头的事</span></td></tr>
 <tr><td width="100" id="quote-170"><span>170</span></td><td width="200"><span>There is a lot of value in being able to see the outside. I can barely see outside from my position in the building and I feel it&#x27;s really starting to eat my soul staring at walls the whole day.</span></td><td width="200"><span>工位能够看到外面的景色是非常有价值的。从我的工位几乎看不到外面,整天盯着墙壁让我感觉灵魂都被侵蚀了。</span></td><td width="150"><span>maxxxxx</span></td><td><span>亲近大自然才能身心愉悦, 高压工作会让人崩坏</span></td></tr>
-<tr><td width="100" id="quote-171"><span>171</span></td><td width="200"><span>The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.</span></td><td width="200"><span>面向对象语言的问题在于它们携带了大量的隐式环境。你想要一个香蕉，但你得到的是一个拿着香蕉的大猩猩和整个丛林。</span></td><td width="150"><span>Joe Armstrong</span></td><td><span>面向对象优点是方法通用，缺点是强制绑定了太多东西</span></td></tr>
+<tr><td width="100" id="quote-171"><span>171</span></td><td width="200"><span>The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.</span></td><td width="200"><span>面向对象语言的问题在于它们携带了大量的隐式环境。你想要一个香蕉，但你得到的是一个拿着香蕉的大猩猩和整个丛林。</span></td><td width="150"><span>Joe Armstrong</span></td><td><span>面向对象优点是方法通用，缺点是强制绑定了太多东西，暴露大量的技术细节，一个个小小的功能，就要对应很多的的代码字符，容易形成技术债，简洁是极致的复杂</span></td></tr>
 <tr><td width="100" id="quote-172"><span>172</span></td><td width="200"><span>Bitcoin is actually just a computer program. This program connects to other computers running the same program, and all computers share a single file called the blockchain.</span></td><td width="200"><span>比特币其实只是一个计算机程序。这个程序连接到其他运行该程序的计算机，所有计算机都共享一个文件，该文件称为区块链。</span></td><td width="150"><span>Greg Walker</span></td><td><span>几句话讲清了比特币与区块链的关系,简单易懂</span></td></tr>
-<tr><td width="100" id="quote-173"><span>173</span></td><td width="200"><span>I think 2017 was around when it stopped being an obviously good idea for startups to be in the bay area, but it’s been somewhat obscured by a massive surge in availability of cheap seed funding.</span></td><td width="200"><span>我认为，2017年的时候，硅谷已经不再适合创业公司了。但是由于廉价种子资金的大量增加，使得这一点不那么明显。</span></td><td width="150"><span>Sam Altman</span></td><td><span>创业的第一要素还是💰</span></td></tr>
-<tr><td width="100" id="quote-174"><span>174</span></td><td width="200"><span>If it was fed 300 of your likes on Facebook. At points in the study, the algorithm knew the person’s personality better than they did themselves</span></td><td width="200"><span>据说，只要你在 Facebook 上面按过300个“赞”，它就会比你自己更了解你。</span></td><td width="150"><span>Erik Brown</span></td><td><span>算法可以更客观地了解人类的个性,大模型的出现让推荐算法更上一层楼</span></td></tr>
-<tr><td width="100" id="quote-175"><span>175</span></td><td width="200"><span>I previously blogged about 2 pitfalls I had already known about: trying to automate a service you don’t fully understand or blindly trusting the automation of someone else, not understanding what it’s doing under the hood.</span></td><td width="200"><span>我之前在博客中提到过两个我已经知道的陷阱:试图自动化一个你不完全理解的服务,或者盲目信任他人的自动化,而不了解它在底层是如何运作的。</span></td><td width="150"><span>Mattias Geniar</span></td><td><span>想要自动化,要了解它的原理</span></td></tr>
-<tr><td width="100" id="quote-176"><span>176</span></td><td width="200"><span>Anyone else think the new React Hooks API offers little to no value?My coworkers are dying to rewrite large portions of the company&#x27;s app just because... it is new? I don&#x27;t understand it all.</span></td><td width="200"><span>还有人认为新的React Hooks API几乎没有价值吗？我的同事们都迫不及待地想要重写公司应用程序的大部分内容，只是因为...它是新的？我完全不明白。</span></td><td width="150"><span>MarvelousWololo</span></td><td><span>技术选型要谨慎,不要因为新而换, Next.js的App router就是一个很好的例子</span></td></tr>
-<tr><td width="100" id="quote-177"><span>177</span></td><td width="200"><span>After years of a love/hate relationship with Vim (I love what it does, but have configuring it), I had an epiphany: by sticking with the defaults, whether they are my preferred choices or not, I can instantly understand how to use Vim in any environment.</span></td><td width="200"><span>经过多年与Vim的爱恨交加(我喜欢它的功能,但讨厌配置它),我突然顿悟:通过坚持使用默认设置,无论它们是否是我的首选,我都可以在任何环境中立即理解如何使用Vim</span></td><td width="150"><span>2bitencryption</span></td><td><span>剑圣拿起了木剑</span></td></tr>
-<tr><td width="100" id="quote-179"><span>179</span></td><td width="200"><span>90% of Web applications are database frontends.</span></td><td width="200"><span>90%的Web应用是数据库前端。</span></td><td width="150"><span>pjmlp</span></td><td><span>前端最有含金量的技术是剩下的10%</span></td></tr>
+<tr><td width="100" id="quote-173"><span>173</span></td><td width="200"><span>I think 2017 was around when it stopped being an obviously good idea for startups to be in the bay area, but it’s been somewhat obscured by a massive surge in availability of cheap seed funding.</span></td><td width="200"><span>我认为，2017年的时候，硅谷已经不再适合创业公司了。但是由于廉价种子资金的大量增加，使得这一点不那么明显。</span></td><td width="150"><span>Sam Altman</span></td><td><span>Sam Altman所在的OpenAI不是世界上最赚钱的公司，但绝对称得上世界上最烧钱的公司，新技术的需要用资源堆出来，除非世界上有个比硅谷更容易拿钱的地方，否则硅谷依然对科技创业公司有巨大的吸引力</span></td></tr>
+<tr><td width="100" id="quote-174"><span>174</span></td><td width="200"><span>If it was fed 300 of your likes on Facebook. At points in the study, the algorithm knew the person’s personality better than they did themselves</span></td><td width="200"><span>据说，只要你在 Facebook 上面按过300个“赞”，它就会比你自己更了解你。</span></td><td width="150"><span>Erik Brown</span></td><td><span>人类很难客观的评价自己，因为总是有主观的想法在，算法的优势是一切以数据为准，可以更客观地了解人类的个性, 大模型的出现让推荐算法更上一层楼</span></td></tr>
+<tr><td width="100" id="quote-175"><span>175</span></td><td width="200"><span>I previously blogged about 2 pitfalls I had already known about: trying to automate a service you don’t fully understand or blindly trusting the automation of someone else, not understanding what it’s doing under the hood.</span></td><td width="200"><span>我之前在博客中提到过两个我已经知道的陷阱:试图自动化一个你不完全理解的服务,或者盲目信任他人的自动化,而不了解它在底层是如何运作的。</span></td><td width="150"><span>Mattias Geniar</span></td><td><span></span></td></tr>
+<tr><td width="100" id="quote-176"><span>176</span></td><td width="200"><span>Anyone else think the new React Hooks API offers little to no value?My coworkers are dying to rewrite large portions of the company&#x27;s app just because... it is new? I don&#x27;t understand it all.</span></td><td width="200"><span>还有人认为新的React Hooks API几乎没有价值吗？我的同事们都迫不及待地想要重写公司应用程序的大部分内容，只是因为...它是新的？我完全不明白。</span></td><td width="150"><span>MarvelousWololo</span></td><td><span>技术选型要谨慎, 不要因为新而换, Next.js的App router就是一个很好的例子, 把网页静态导出的功能给整没了，但世界上大多数网站的网页都是静态的偏多</span></td></tr>
+<tr><td width="100" id="quote-177"><span>177</span></td><td width="200"><span>After years of a love/hate relationship with Vim (I love what it does, but have configuring it), I had an epiphany: by sticking with the defaults, whether they are my preferred choices or not, I can instantly understand how to use Vim in any environment.</span></td><td width="200"><span>经过多年与Vim的爱恨交加(我喜欢它的功能,但讨厌配置它),我突然顿悟:通过坚持使用默认设置,无论它们是否是我的首选,我都可以在任何环境中立即理解如何使用Vim</span></td><td width="150"><span>2bitencryption</span></td><td><span>不只是Vim，好的工具应该是开箱即用的，如果一个工具需要大量的配置才能玩起来，用户量注定不会太大，只有把配置细节屏蔽好，才能让每个人都能享受科技的乐趣</span></td></tr>
+<tr><td width="100" id="quote-178"><span>178</span></td><td width="200"><span>Software that’s speedy usually means it’s focused</span></td><td width="200"><span>快速的软件通常意味着它是专注的</span></td><td width="150"><span>Roden</span></td><td><span>大多数优秀互联网产品，都是出道即巅峰，小团队的产品容易小而美，小团队开发能力有限，没能力做全家桶，软件只能才有可能小而美</span></td></tr>
+<tr><td width="100" id="quote-179"><span>179</span></td><td width="200"><span>90% of Web applications are database frontends.</span></td><td width="200"><span>90%的Web应用是数据库前端。</span></td><td width="150"><span>pjmlp</span></td><td><span>前端最有含金量的技术是剩下的10%，比如WebGL，WebAssembly，前端的使命就是用图形化的界面，将枯燥的增删改查，转换为对普通人类易用的工具</span></td></tr>
 </table>
 ===🌛===
 
@@ -193,34 +212,34 @@ Brilliantly witty programmer jokes: The perfect way to learn English! 程序员�
 ===word_frequency_start===
 ## Word Frequency Analysis
 
-Total unique words: 1043
+Total unique words: 1052
 
 <details>
 <summary>Click to view full word frequency table</summary>
 
 | Rank | Word | Frequency | Quotes |
 |------|------|-----------|--------|
-| 1 | the | 163 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-16">16</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-95">95</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-107">107</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
+| 1 | the | 164 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-16">16</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-95">95</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-107">107</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
 | 2 | is | 127 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-16">16</a>, <a href="#/README?id=quote-20">20</a>, <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-89">89</a>, <a href="#/README?id=quote-89">89</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-95">95</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-107">107</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-176">176</a> |
-| 3 | to | 95 | <a href="#/README?id=quote-10">10</a>, <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
-| 4 | it | 92 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-6">6</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-178">178</a> |
-| 5 | you | 65 | <a href="#/README?id=quote-2">2</a>, <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-175">175</a> |
+| 3 | it | 95 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-6">6</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-178">178</a> |
+| 4 | to | 95 | <a href="#/README?id=quote-10">10</a>, <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
+| 5 | you | 66 | <a href="#/README?id=quote-2">2</a>, <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-175">175</a> |
 | 6 | of | 65 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-16">16</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-107">107</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-179">179</a> |
-| 7 | and | 51 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-167">167</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a> |
+| 7 | and | 53 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-167">167</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a> |
 | 8 | in | 46 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-5">5</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-177">177</a> |
-| 9 | like | 41 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-50">50</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a> |
-| 10 | that | 40 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-178">178</a> |
+| 9 | that | 41 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-178">178</a> |
+| 10 | like | 41 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-50">50</a>, <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a> |
 | 11 | are | 35 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-179">179</a> |
-| 12 | but | 25 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-177">177</a> |
-| 13 | they | 25 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-177">177</a> |
-| 14 | can | 25 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-177">177</a> |
-| 15 | with | 22 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a> |
-| 16 | do | 22 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-152">152</a> |
-| 17 | what | 22 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
-| 18 | your | 21 | <a href="#/README?id=quote-5">5</a>, <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-174">174</a> |
-| 19 | be | 21 | <a href="#/README?id=quote-10">10</a>, <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-173">173</a> |
-| 20 | code | 21 | <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-151">151</a> |
-| 21 | not | 21 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
+| 12 | can | 26 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-177">177</a> |
+| 13 | but | 25 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-119">119</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-177">177</a> |
+| 14 | they | 25 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-174">174</a>, <a href="#/README?id=quote-177">177</a> |
+| 15 | do | 23 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-165">165</a> |
+| 16 | with | 22 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a> |
+| 17 | not | 22 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-109">109</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
+| 18 | what | 22 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
+| 19 | your | 21 | <a href="#/README?id=quote-5">5</a>, <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-174">174</a> |
+| 20 | be | 21 | <a href="#/README?id=quote-10">10</a>, <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-105">105</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-173">173</a> |
+| 21 | code | 21 | <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-151">151</a> |
 | 22 | if | 19 | <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-174">174</a> |
 | 23 | there | 19 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-50">50</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-170">170</a> |
 | 24 | we | 18 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-169">169</a> |
@@ -236,18 +255,18 @@ Total unique words: 1043
 | 34 | problem | 13 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-171">171</a> |
 | 35 | re | 13 | <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-159">159</a>, <a href="#/README?id=quote-161">161</a> |
 | 36 | have | 12 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-177">177</a> |
-| 37 | by | 12 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-177">177</a> |
-| 38 | when | 12 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-173">173</a> |
-| 39 | programming | 12 | <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-153">153</a> |
-| 40 | no | 11 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-50">50</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-176">176</a> |
-| 41 | way | 11 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-106">106</a> |
-| 42 | because | 11 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-176">176</a> |
-| 43 | people | 11 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-165">165</a> |
-| 44 | most | 10 | <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-169">169</a> |
-| 45 | understand | 10 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
-| 46 | first | 10 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-147">147</a> |
-| 47 | why | 10 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-119">119</a> |
-| 48 | just | 9 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-6">6</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-176">176</a> |
+| 37 | because | 12 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-176">176</a> |
+| 38 | by | 12 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-177">177</a> |
+| 39 | when | 12 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-173">173</a> |
+| 40 | programming | 12 | <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-153">153</a> |
+| 41 | just | 11 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-6">6</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-176">176</a> |
+| 42 | no | 11 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-50">50</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-176">176</a> |
+| 43 | way | 11 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-106">106</a> |
+| 44 | people | 11 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-165">165</a> |
+| 45 | most | 10 | <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-169">169</a> |
+| 46 | understand | 10 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
+| 47 | first | 10 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-147">147</a> |
+| 48 | why | 10 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-119">119</a> |
 | 49 | up | 9 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-145">145</a> |
 | 50 | make | 9 | <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-168">168</a> |
 | 51 | language | 9 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-113">113</a>, <a href="#/README?id=quote-120">120</a> |
@@ -255,49 +274,49 @@ Total unique words: 1043
 | 53 | them | 9 | <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-171">171</a> |
 | 54 | two | 9 | <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-130">130</a> |
 | 55 | get | 9 | <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-162">162</a>, <a href="#/README?id=quote-166">166</a> |
-| 56 | think | 8 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-176">176</a> |
-| 57 | all | 8 | <a href="#/README?id=quote-16">16</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-176">176</a> |
-| 58 | who | 8 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-161">161</a> |
-| 59 | as | 8 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-126">126</a> |
-| 60 | this | 8 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a> |
-| 61 | had | 8 | <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
-| 62 | computers | 8 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a> |
-| 63 | where | 8 | <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a> |
-| 64 | their | 7 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
-| 65 | everyone | 7 | <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-164">164</a> |
-| 66 | best | 7 | <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-131">131</a> |
-| 67 | programmers | 7 | <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-65">65</a> |
-| 68 | how | 7 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-177">177</a> |
-| 69 | trying | 7 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-175">175</a> |
-| 70 | or | 7 | <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
-| 71 | more | 6 | <a href="#/README?id=quote-7">7</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-166">166</a> |
-| 72 | at | 6 | <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-174">174</a> |
-| 73 | world | 6 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-166">166</a> |
-| 74 | programs | 6 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-113">113</a> |
-| 75 | things | 6 | <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-151">151</a> |
-| 76 | better | 6 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-174">174</a> |
-| 77 | its | 6 | <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a> |
-| 78 | human | 6 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-146">146</a> |
-| 79 | was | 6 | <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a> |
-| 80 | did | 6 | <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-174">174</a> |
-| 81 | doing | 6 | <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-175">175</a> |
-| 82 | so | 6 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-152">152</a> |
-| 83 | know | 6 | <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-149">149</a> |
-| 84 | makes | 6 | <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-151">151</a> |
-| 85 | machine | 6 | <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-152">152</a> |
-| 86 | being | 6 | <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-173">173</a> |
-| 87 | thing | 5 | <a href="#/README?id=quote-7">7</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-131">131</a> |
-| 88 | an | 5 | <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-177">177</a> |
-| 89 | day | 5 | <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-170">170</a> |
-| 90 | time | 5 | <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-140">140</a> |
-| 91 | debugging | 5 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
-| 92 | write | 5 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-104">104</a> |
-| 93 | internet | 5 | <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-166">166</a> |
-| 94 | fast | 5 | <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-157">157</a> |
-| 95 | build | 5 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-145">145</a> |
-| 96 | new | 5 | <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a> |
-| 97 | before | 5 | <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-120">120</a> |
-| 98 | has | 5 | <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-140">140</a> |
+| 56 | how | 9 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-177">177</a> |
+| 57 | think | 8 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-176">176</a> |
+| 58 | all | 8 | <a href="#/README?id=quote-16">16</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-176">176</a> |
+| 59 | who | 8 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-161">161</a> |
+| 60 | as | 8 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-126">126</a> |
+| 61 | this | 8 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-172">172</a> |
+| 62 | had | 8 | <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
+| 63 | computers | 8 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-125">125</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a> |
+| 64 | where | 8 | <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-163">163</a>, <a href="#/README?id=quote-164">164</a> |
+| 65 | their | 7 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-164">164</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
+| 66 | everyone | 7 | <a href="#/README?id=quote-31">31</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-164">164</a> |
+| 67 | best | 7 | <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-131">131</a> |
+| 68 | has | 7 | <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a> |
+| 69 | programmers | 7 | <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-52">52</a>, <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-65">65</a> |
+| 70 | trying | 7 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-175">175</a> |
+| 71 | or | 7 | <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-177">177</a> |
+| 72 | more | 6 | <a href="#/README?id=quote-7">7</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-166">166</a> |
+| 73 | at | 6 | <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-174">174</a> |
+| 74 | world | 6 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-106">106</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-166">166</a> |
+| 75 | programs | 6 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-113">113</a> |
+| 76 | things | 6 | <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-151">151</a> |
+| 77 | better | 6 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-158">158</a>, <a href="#/README?id=quote-174">174</a> |
+| 78 | its | 6 | <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-113">113</a> |
+| 79 | human | 6 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-146">146</a> |
+| 80 | was | 6 | <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-174">174</a> |
+| 81 | did | 6 | <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-57">57</a>, <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-174">174</a> |
+| 82 | doing | 6 | <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-175">175</a> |
+| 83 | so | 6 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-152">152</a> |
+| 84 | know | 6 | <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-149">149</a> |
+| 85 | makes | 6 | <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-151">151</a> |
+| 86 | machine | 6 | <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-152">152</a> |
+| 87 | being | 6 | <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-173">173</a> |
+| 88 | thing | 5 | <a href="#/README?id=quote-7">7</a>, <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-131">131</a> |
+| 89 | an | 5 | <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-38">38</a>, <a href="#/README?id=quote-173">173</a>, <a href="#/README?id=quote-177">177</a> |
+| 90 | day | 5 | <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-170">170</a> |
+| 91 | time | 5 | <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-140">140</a> |
+| 92 | debugging | 5 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
+| 93 | write | 5 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-104">104</a> |
+| 94 | internet | 5 | <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-82">82</a>, <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-166">166</a> |
+| 95 | fast | 5 | <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-96">96</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-157">157</a> |
+| 96 | build | 5 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-145">145</a> |
+| 97 | new | 5 | <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-176">176</a> |
+| 98 | before | 5 | <a href="#/README?id=quote-40">40</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-120">120</a> |
 | 99 | he | 5 | <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-132">132</a> |
 | 100 | java | 5 | <a href="#/README?id=quote-49">49</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-121">121</a> |
 | 101 | than | 5 | <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-174">174</a> |
@@ -308,941 +327,950 @@ Total unique words: 1043
 | 106 | out | 5 | <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-107">107</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-161">161</a>, <a href="#/README?id=quote-164">164</a> |
 | 107 | see | 5 | <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-85">85</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a> |
 | 108 | even | 5 | <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-93">93</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-140">140</a> |
-| 109 | into | 4 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-159">159</a> |
-| 110 | works | 4 | <a href="#/README?id=quote-6">6</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a> |
-| 111 | ll | 4 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-168">168</a> |
-| 112 | person | 4 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-174">174</a> |
-| 113 | hard | 4 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-116">116</a> |
-| 114 | learning | 4 | <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-152">152</a> |
-| 115 | those | 4 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-64">64</a> |
-| 116 | solve | 4 | <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-71">71</a> |
-| 117 | any | 4 | <a href="#/README?id=quote-20">20</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-177">177</a> |
-| 118 | from | 4 | <a href="#/README?id=quote-20">20</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-170">170</a> |
-| 119 | very | 4 | <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a> |
-| 120 | never | 4 | <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-143">143</a> |
-| 121 | own | 4 | <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-134">134</a> |
-| 122 | simple | 4 | <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-90">90</a> |
-| 123 | problems | 4 | <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-116">116</a> |
-| 124 | bugs | 4 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-123">123</a> |
-| 125 | programmer | 4 | <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-77">77</a> |
-| 126 | hardware | 4 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-96">96</a> |
-| 127 | tell | 4 | <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-149">149</a> |
-| 128 | development | 4 | <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-145">145</a> |
-| 129 | computing | 4 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-162">162</a> |
-| 130 | looks | 4 | <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-158">158</a> |
-| 131 | program | 4 | <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a> |
-| 132 | whether | 4 | <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-177">177</a> |
-| 133 | percent | 4 | <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a> |
-| 134 | really | 4 | <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-170">170</a> |
-| 135 | sex | 4 | <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-152">152</a> |
-| 136 | want | 4 | <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-162">162</a> |
-| 137 | quantum | 4 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-141">141</a> |
-| 138 | got | 4 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a> |
-| 139 | banana | 4 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a> |
-| 140 | blockchain | 4 | <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-172">172</a> |
-| 141 | everything | 4 | <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-158">158</a> |
-| 142 | else | 4 | <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a> |
-| 143 | still | 4 | <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a> |
-| 144 | my | 4 | <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
-| 145 | may | 3 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-139">139</a> |
-| 146 | small | 3 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
-| 147 | big | 3 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-149">149</a> |
-| 148 | reality | 3 | <a href="#/README?id=quote-9">9</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-158">158</a> |
-| 149 | enough | 3 | <a href="#/README?id=quote-10">10</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-71">71</a> |
-| 150 | will | 3 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-139">139</a> |
-| 151 | easy | 3 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-101">101</a> |
-| 152 | customers | 3 | <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-169">169</a> |
-| 153 | read | 3 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-147">147</a> |
-| 154 | writing | 3 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-134">134</a> |
-| 155 | risk | 3 | <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-145">145</a> |
-| 156 | explain | 3 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-169">169</a> |
-| 157 | then | 3 | <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-122">122</a> |
-| 158 | ve | 3 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 159 | save | 3 | <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-160">160</a> |
-| 160 | documentation | 3 | <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-124">124</a> |
-| 161 | same | 3 | <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-172">172</a> |
-| 162 | simplicity | 3 | <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-95">95</a> |
-| 163 | another | 3 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-146">146</a> |
-| 164 | light | 3 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-140">140</a> |
-| 165 | his | 3 | <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-58">58</a> |
-| 166 | many | 3 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-58">58</a> |
-| 167 | does | 3 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-177">177</a> |
-| 168 | humanity | 3 | <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-142">142</a> |
-| 169 | doesn | 3 | <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-149">149</a> |
-| 170 | nothing | 3 | <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-158">158</a> |
-| 171 | nobody | 3 | <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-152">152</a> |
-| 172 | state | 3 | <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-94">94</a> |
-| 173 | between | 3 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-146">146</a> |
-| 174 | bigger | 3 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-166">166</a> |
-| 175 | universe | 3 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-160">160</a> |
-| 176 | ways | 3 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-104">104</a> |
-| 177 | complicated | 3 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-141">141</a> |
-| 178 | unix | 3 | <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-84">84</a> |
-| 179 | would | 3 | <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-166">166</a> |
-| 180 | someone | 3 | <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-175">175</a> |
-| 181 | system | 3 | <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-161">161</a> |
-| 182 | idea | 3 | <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-173">173</a> |
-| 183 | also | 3 | <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
-| 184 | wrong | 3 | <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-136">136</a> |
-| 185 | back | 3 | <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-168">168</a> |
-| 186 | mistake | 3 | <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
-| 187 | our | 3 | <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-142">142</a> |
-| 188 | typed | 3 | <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a> |
-| 189 | exactly | 3 | <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-143">143</a> |
-| 190 | once | 3 | <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-140">140</a> |
-| 191 | delivery | 3 | <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-162">162</a> |
-| 192 | going | 3 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a> |
-| 193 | environment | 3 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-177">177</a> |
-| 194 | around | 3 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-173">173</a> |
-| 195 | entire | 3 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-171">171</a> |
-| 196 | while | 3 | <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-153">153</a> |
-| 197 | actually | 3 | <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-172">172</a> |
-| 198 | having | 3 | <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-169">169</a> |
-| 199 | test | 3 | <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-163">163</a> |
-| 200 | data | 3 | <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
-| 201 | exciting | 3 | <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a> |
-| 202 | years | 3 | <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-177">177</a> |
-| 203 | made | 2 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-83">83</a> |
-| 204 | microsoft | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-73">73</a> |
-| 205 | taste | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a> |
-| 206 | mean | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a> |
-| 207 | sense | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-93">93</a> |
-| 208 | much | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-37">37</a> |
-| 209 | products | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-84">84</a> |
-| 210 | stay | 2 | <a href="#/README?id=quote-4">4</a>, <a href="#/README?id=quote-4">4</a> |
-| 211 | hungry | 2 | <a href="#/README?id=quote-4">4</a>, <a href="#/README?id=quote-153">153</a> |
-| 212 | away | 2 | <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-75">75</a> |
-| 213 | end | 2 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-86">86</a> |
-| 214 | working | 2 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-66">66</a> |
-| 215 | choose | 2 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-134">134</a> |
-| 216 | lazy | 2 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a> |
-| 217 | job | 2 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-47">47</a> |
-| 218 | success | 2 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-110">110</a> |
-| 219 | smart | 2 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-22">22</a> |
-| 220 | thinking | 2 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-87">87</a> |
-| 221 | look | 2 | <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-151">151</a> |
-| 222 | must | 2 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-122">122</a> |
-| 223 | machines | 2 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-86">86</a> |
-| 224 | cheap | 2 | <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-173">173</a> |
-| 225 | show | 2 | <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-73">73</a> |
-| 226 | place | 2 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-50">50</a> |
-| 227 | possible | 2 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-119">119</a> |
-| 228 | every | 2 | <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-160">160</a> |
-| 229 | fail | 2 | <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-27">27</a> |
-| 230 | company | 2 | <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-176">176</a> |
-| 231 | last | 2 | <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-147">147</a> |
-| 232 | break | 2 | <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-149">149</a> |
-| 233 | taking | 2 | <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a> |
-| 234 | guaranteed | 2 | <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-116">116</a> |
-| 235 | services | 2 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a> |
-| 236 | money | 2 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a> |
-| 237 | bad | 2 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-124">124</a> |
-| 238 | error | 2 | <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-104">104</a> |
-| 239 | dangerous | 2 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-114">114</a> |
-| 240 | done | 2 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-85">85</a> |
-| 241 | learn | 2 | <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-59">59</a> |
-| 242 | soul | 2 | <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-170">170</a> |
-| 243 | art | 2 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a> |
-| 244 | telling | 2 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a> |
-| 245 | wants | 2 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a> |
-| 246 | prefer | 2 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-54">54</a> |
-| 247 | sql | 2 | <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-167">167</a> |
-| 248 | take | 2 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-169">169</a> |
-| 249 | change | 2 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-166">166</a> |
-| 250 | might | 2 | <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-143">143</a> |
-| 251 | go | 2 | <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-147">147</a> |
-| 252 | used | 2 | <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-91">91</a> |
-| 253 | cache | 2 | <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-76">76</a> |
-| 254 | hate | 2 | <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-177">177</a> |
-| 255 | now | 2 | <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-70">70</a> |
-| 256 | database | 2 | <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-179">179</a> |
-| 257 | leave | 2 | <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-144">144</a> |
-| 258 | ever | 2 | <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a> |
-| 259 | living | 2 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-94">94</a> |
-| 260 | difficult | 2 | <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-69">69</a> |
-| 261 | future | 2 | <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-138">138</a> |
-| 262 | kinds | 2 | <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-130">130</a> |
-| 263 | uses | 2 | <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-130">130</a> |
-| 264 | trouble | 2 | <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-102">102</a> |
-| 265 | until | 2 | <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-154">154</a> |
-| 266 | engineers | 2 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-155">155</a> |
-| 267 | far | 2 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a> |
-| 268 | experts | 2 | <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-106">106</a> |
-| 269 | design | 2 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-107">107</a> |
-| 270 | obviously | 2 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-173">173</a> |
-| 271 | deficiencies | 2 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a> |
-| 272 | using | 2 | <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-119">119</a> |
-| 273 | knows | 2 | <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-152">152</a> |
-| 274 | themselves | 2 | <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-174">174</a> |
-| 275 | yourself | 2 | <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-112">112</a> |
-| 276 | whole | 2 | <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-170">170</a> |
-| 277 | science | 2 | <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-89">89</a> |
-| 278 | both | 2 | <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-101">101</a> |
-| 279 | lot | 2 | <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-170">170</a> |
-| 280 | important | 2 | <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-105">105</a> |
-| 281 | industry | 2 | <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a> |
-| 282 | come | 2 | <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-106">106</a> |
-| 283 | believe | 2 | <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-90">90</a> |
-| 284 | meaningful | 2 | <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-110">110</a> |
-| 285 | sometimes | 2 | <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-144">144</a> |
-| 286 | mathematics | 2 | <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-91">91</a> |
-| 287 | life | 2 | <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-108">108</a> |
-| 288 | man | 2 | <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-132">132</a> |
-| 289 | try | 2 | <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-92">92</a> |
-| 290 | models | 2 | <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-136">136</a> |
-| 291 | anyone | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-176">176</a> |
-| 292 | random | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-105">105</a> |
-| 293 | numbers | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-105">105</a> |
-| 294 | means | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-178">178</a> |
-| 295 | theory | 2 | <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a> |
-| 296 | practice | 2 | <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a> |
-| 297 | measuring | 2 | <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-98">98</a> |
-| 298 | progress | 2 | <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-98">98</a> |
-| 299 | building | 2 | <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-170">170</a> |
-| 300 | accurate | 2 | <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-141">141</a> |
-| 301 | information | 2 | <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-136">136</a> |
-| 302 | accounts | 2 | <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a> |
-| 303 | walking | 2 | <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-153">153</a> |
-| 304 | rest | 2 | <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-168">168</a> |
-| 305 | rarely | 2 | <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-159">159</a> |
-| 306 | strongly | 2 | <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a> |
-| 307 | comment | 2 | <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-112">112</a> |
-| 308 | ask | 2 | <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-160">160</a> |
-| 309 | off | 2 | <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-131">131</a> |
-| 310 | lead | 2 | <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-153">153</a> |
-| 311 | room | 2 | <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-161">161</a> |
-| 312 | saying | 2 | <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a> |
-| 313 | after | 2 | <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-177">177</a> |
-| 314 | car | 2 | <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-145">145</a> |
-| 315 | process | 2 | <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-122">122</a> |
-| 316 | half | 2 | <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-164">164</a> |
-| 317 | artificial | 2 | <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-142">142</a> |
-| 318 | intelligence | 2 | <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-142">142</a> |
-| 319 | match | 2 | <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-146">146</a> |
-| 320 | understanding | 2 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-175">175</a> |
-| 321 | simultaneously | 2 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-137">137</a> |
-| 322 | object | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 323 | oriented | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 324 | implicit | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 325 | carry | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 326 | wanted | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 327 | gorilla | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 328 | holding | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 329 | jungle | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
-| 330 | ones | 2 | <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-130">130</a> |
-| 331 | cryptography | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
-| 332 | mailman | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
-| 333 | mail | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
-| 334 | without | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-162">162</a> |
-| 335 | envelope | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
-| 336 | detective | 2 | <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
-| 337 | crime | 2 | <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
-| 338 | murderer | 2 | <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
-| 339 | management | 2 | <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-167">167</a> |
-| 340 | story | 2 | <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-167">167</a> |
-| 341 | convincing | 2 | <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-146">146</a> |
-| 342 | hole | 2 | <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-144">144</a> |
-| 343 | looking | 2 | <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-157">157</a> |
-| 344 | fly | 2 | <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-144">144</a> |
-| 345 | anything | 2 | <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-154">154</a> |
-| 346 | turing | 2 | <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-163">163</a> |
-| 347 | page | 2 | <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a> |
-| 348 | run | 2 | <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-157">157</a> |
-| 349 | juggling | 2 | <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
-| 350 | chainsaws | 2 | <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
-| 351 | let | 2 | <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-154">154</a> |
-| 352 | over | 2 | <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-155">155</a> |
-| 353 | except | 2 | <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a> |
-| 354 | wearing | 2 | <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-163">163</a> |
-| 355 | digital | 2 | <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-164">164</a> |
-| 356 | potato | 2 | <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-156">156</a> |
-| 357 | large | 2 | <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-176">176</a> |
-| 358 | privacy | 2 | <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
-| 359 | security | 2 | <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
-| 360 | care | 2 | <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
-| 361 | value | 2 | <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-176">176</a> |
-| 362 | outside | 2 | <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a> |
-| 363 | love | 2 | <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a> |
-| 364 | vim | 2 | <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a> |
-| 365 | invented | 1 | <a href="#/README?id=quote-1">1</a> |
-| 366 | bill | 1 | <a href="#/README?id=quote-1">1</a> |
-| 367 | famous | 1 | <a href="#/README?id=quote-1">1</a> |
-| 368 | nvidia | 1 | <a href="#/README?id=quote-2">2</a> |
-| 369 | fuck | 1 | <a href="#/README?id=quote-2">2</a> |
-| 370 | absolutely | 1 | <a href="#/README?id=quote-3">3</a> |
-| 371 | original | 1 | <a href="#/README?id=quote-3">3</a> |
-| 372 | ideas | 1 | <a href="#/README?id=quote-3">3</a> |
-| 373 | bring | 1 | <a href="#/README?id=quote-3">3</a> |
-| 374 | culture | 1 | <a href="#/README?id=quote-3">3</a> |
-| 375 | foolish | 1 | <a href="#/README?id=quote-4">4</a> |
-| 376 | songs | 1 | <a href="#/README?id=quote-5">5</a> |
-| 377 | pocket | 1 | <a href="#/README?id=quote-5">5</a> |
-| 378 | apple | 1 | <a href="#/README?id=quote-8">8</a> |
-| 379 | keeps | 1 | <a href="#/README?id=quote-8">8</a> |
-| 380 | doctor | 1 | <a href="#/README?id=quote-8">8</a> |
-| 381 | distortion | 1 | <a href="#/README?id=quote-9">9</a> |
-| 382 | field | 1 | <a href="#/README?id=quote-9">9</a> |
-| 383 | ought | 1 | <a href="#/README?id=quote-10">10</a> |
-| 384 | anybody | 1 | <a href="#/README?id=quote-10">10</a> |
-| 385 | nice | 1 | <a href="#/README?id=quote-11">11</a> |
-| 386 | nerds | 1 | <a href="#/README?id=quote-11">11</a> |
-| 387 | chances | 1 | <a href="#/README?id=quote-11">11</a> |
-| 388 | find | 1 | <a href="#/README?id=quote-12">12</a> |
-| 389 | unhappy | 1 | <a href="#/README?id=quote-13">13</a> |
-| 390 | greatest | 1 | <a href="#/README?id=quote-13">13</a> |
-| 391 | source | 1 | <a href="#/README?id=quote-13">13</a> |
-| 392 | lousy | 1 | <a href="#/README?id=quote-14">14</a> |
-| 393 | teacher | 1 | <a href="#/README?id=quote-14">14</a> |
-| 394 | seduces | 1 | <a href="#/README?id=quote-14">14</a> |
-| 395 | lose | 1 | <a href="#/README?id=quote-14">14</a> |
-| 396 | least | 1 | <a href="#/README?id=quote-15">15</a> |
-| 397 | premature | 1 | <a href="#/README?id=quote-16">16</a> |
-| 398 | optimization | 1 | <a href="#/README?id=quote-16">16</a> |
-| 399 | root | 1 | <a href="#/README?id=quote-16">16</a> |
-| 400 | evil | 1 | <a href="#/README?id=quote-16">16</a> |
-| 401 | types | 1 | <a href="#/README?id=quote-17">17</a> |
-| 402 | binary | 1 | <a href="#/README?id=quote-17">17</a> |
-| 403 | written | 1 | <a href="#/README?id=quote-18">18</a> |
-| 404 | incidentally | 1 | <a href="#/README?id=quote-18">18</a> |
-| 405 | execute | 1 | <a href="#/README?id=quote-18">18</a> |
-| 406 | sufficiently | 1 | <a href="#/README?id=quote-20">20</a> |
-| 407 | advanced | 1 | <a href="#/README?id=quote-20">20</a> |
-| 408 | technology | 1 | <a href="#/README?id=quote-20">20</a> |
-| 409 | indistinguishable | 1 | <a href="#/README?id=quote-20">20</a> |
-| 410 | magic | 1 | <a href="#/README?id=quote-20">20</a> |
-| 411 | talk | 1 | <a href="#/README?id=quote-21">21</a> |
-| 412 | me | 1 | <a href="#/README?id=quote-21">21</a> |
-| 413 | twice | 1 | <a href="#/README?id=quote-22">22</a> |
-| 414 | therefore | 1 | <a href="#/README?id=quote-22">22</a> |
-| 415 | cleverly | 1 | <a href="#/README?id=quote-22">22</a> |
-| 416 | definition | 1 | <a href="#/README?id=quote-22">22</a> |
-| 417 | debug | 1 | <a href="#/README?id=quote-22">22</a> |
-| 418 | willing | 1 | <a href="#/README?id=quote-24">24</a> |
-| 419 | innovate | 1 | <a href="#/README?id=quote-24">24</a> |
-| 420 | focus | 1 | <a href="#/README?id=quote-25">25</a> |
-| 421 | long | 1 | <a href="#/README?id=quote-25">25</a> |
-| 422 | move | 1 | <a href="#/README?id=quote-26">26</a> |
-| 423 | biggest | 1 | <a href="#/README?id=quote-27">27</a> |
-| 424 | changing | 1 | <a href="#/README?id=quote-27">27</a> |
-| 425 | quickly | 1 | <a href="#/README?id=quote-27">27</a> |
-| 426 | strategy | 1 | <a href="#/README?id=quote-27">27</a> |
-| 427 | risks | 1 | <a href="#/README?id=quote-27">27</a> |
-| 428 | humor | 1 | <a href="#/README?id=quote-29">29</a> |
-| 429 | experience | 1 | <a href="#/README?id=quote-31">31</a> |
-| 430 | name | 1 | <a href="#/README?id=quote-31">31</a> |
-| 431 | gives | 1 | <a href="#/README?id=quote-31">31</a> |
-| 432 | mistakes | 1 | <a href="#/README?id=quote-31">31</a> |
-| 433 | message | 1 | <a href="#/README?id=quote-32">32</a> |
-| 434 | shows | 1 | <a href="#/README?id=quote-32">32</a> |
-| 435 | phrase | 1 | <a href="#/README?id=quote-33">33</a> |
-| 436 | weeks | 1 | <a href="#/README?id=quote-34">34</a> |
-| 437 | coding | 1 | <a href="#/README?id=quote-34">34</a> |
-| 438 | hours | 1 | <a href="#/README?id=quote-34">34</a> |
-| 439 | planning | 1 | <a href="#/README?id=quote-34">34</a> |
-| 440 | cathedrals | 1 | <a href="#/README?id=quote-37">37</a> |
-| 441 | pray | 1 | <a href="#/README?id=quote-37">37</a> |
-| 442 | bug | 1 | <a href="#/README?id=quote-38">38</a> |
-| 443 | undocumented | 1 | <a href="#/README?id=quote-38">38</a> |
-| 444 | feature | 1 | <a href="#/README?id=quote-38">38</a> |
-| 445 | efficiency | 1 | <a href="#/README?id=quote-39">39</a> |
-| 446 | reusable | 1 | <a href="#/README?id=quote-40">40</a> |
-| 447 | usable | 1 | <a href="#/README?id=quote-40">40</a> |
-| 448 | fool | 1 | <a href="#/README?id=quote-42">42</a> |
-| 449 | humans | 1 | <a href="#/README?id=quote-42">42</a> |
-| 450 | function | 1 | <a href="#/README?id=quote-43">43</a> |
-| 451 | complex | 1 | <a href="#/README?id=quote-43">43</a> |
-| 452 | appear | 1 | <a href="#/README?id=quote-43">43</a> |
-| 453 | born | 1 | <a href="#/README?id=quote-44">44</a> |
-| 454 | exist | 1 | <a href="#/README?id=quote-44">44</a> |
-| 455 | dark | 1 | <a href="#/README?id=quote-45">45</a> |
-| 456 | mode | 1 | <a href="#/README?id=quote-45">45</a> |
-| 457 | attracts | 1 | <a href="#/README?id=quote-45">45</a> |
-| 458 | query | 1 | <a href="#/README?id=quote-46">46</a> |
-| 459 | goes | 1 | <a href="#/README?id=quote-46">46</a> |
-| 460 | bar | 1 | <a href="#/README?id=quote-46">46</a> |
-| 461 | walks | 1 | <a href="#/README?id=quote-46">46</a> |
-| 462 | tables | 1 | <a href="#/README?id=quote-46">46</a> |
-| 463 | asks | 1 | <a href="#/README?id=quote-46">46</a> |
-| 464 | join | 1 | <a href="#/README?id=quote-46">46</a> |
-| 465 | quit | 1 | <a href="#/README?id=quote-47">47</a> |
-| 466 | didn | 1 | <a href="#/README?id=quote-47">47</a> |
-| 467 | arrays | 1 | <a href="#/README?id=quote-47">47</a> |
-| 468 | bulb | 1 | <a href="#/README?id=quote-48">48</a> |
-| 469 | none | 1 | <a href="#/README?id=quote-48">48</a> |
-| 470 | developers | 1 | <a href="#/README?id=quote-49">49</a> |
-| 471 | wear | 1 | <a href="#/README?id=quote-49">49</a> |
-| 472 | glasses | 1 | <a href="#/README?id=quote-49">49</a> |
-| 473 | udp | 1 | <a href="#/README?id=quote-51">51</a> |
-| 474 | joke | 1 | <a href="#/README?id=quote-51">51</a> |
-| 475 | mix | 1 | <a href="#/README?id=quote-52">52</a> |
-| 476 | halloween | 1 | <a href="#/README?id=quote-52">52</a> |
-| 477 | christmas | 1 | <a href="#/README?id=quote-52">52</a> |
-| 478 | oct | 1 | <a href="#/README?id=quote-52">52</a> |
-| 479 | dec | 1 | <a href="#/README?id=quote-52">52</a> |
-| 480 | developer | 1 | <a href="#/README?id=quote-53">53</a> |
-| 481 | broke | 1 | <a href="#/README?id=quote-53">53</a> |
-| 482 | ios | 1 | <a href="#/README?id=quote-54">54</a> |
-| 483 | swift | 1 | <a href="#/README?id=quote-54">54</a> |
-| 484 | mightier | 1 | <a href="#/README?id=quote-54">54</a> |
-| 485 | kotlin | 1 | <a href="#/README?id=quote-54">54</a> |
-| 486 | nature | 1 | <a href="#/README?id=quote-55">55</a> |
-| 487 | decided | 1 | <a href="#/README?id=quote-56">56</a> |
-| 488 | problemfactory | 1 | <a href="#/README?id=quote-56">56</a> |
-| 489 | functions | 1 | <a href="#/README?id=quote-57">57</a> |
-| 490 | stop | 1 | <a href="#/README?id=quote-57">57</a> |
-| 491 | calling | 1 | <a href="#/README?id=quote-57">57</a> |
-| 492 | each | 1 | <a href="#/README?id=quote-57">57</a> |
-| 493 | constant | 1 | <a href="#/README?id=quote-57">57</a> |
-| 494 | arguments | 1 | <a href="#/README?id=quote-57">57</a> |
-| 495 | administrator | 1 | <a href="#/README?id=quote-58">58</a> |
-| 496 | wife | 1 | <a href="#/README?id=quote-58">58</a> |
-| 497 | she | 1 | <a href="#/README?id=quote-58">58</a> |
-| 498 | relationships | 1 | <a href="#/README?id=quote-58">58</a> |
-| 499 | disastrous | 1 | <a href="#/README?id=quote-59">59</a> |
-| 500 | built | 1 | <a href="#/README?id=quote-60">60</a> |
-| 501 | largest | 1 | <a href="#/README?id=quote-60">60</a> |
-| 502 | experiment | 1 | <a href="#/README?id=quote-60">60</a> |
-| 503 | anarchy | 1 | <a href="#/README?id=quote-60">60</a> |
-| 504 | anymore | 1 | <a href="#/README?id=quote-61">61</a> |
-| 505 | entropy | 1 | <a href="#/README?id=quote-62">62</a> |
-| 506 | grasp | 1 | <a href="#/README?id=quote-62">62</a> |
-| 507 | weighs | 1 | <a href="#/README?id=quote-62">62</a> |
-| 508 | obeys | 1 | <a href="#/README?id=quote-62">62</a> |
-| 509 | second | 1 | <a href="#/README?id=quote-62">62</a> |
-| 510 | law | 1 | <a href="#/README?id=quote-62">62</a> |
-| 511 | thermodynamics | 1 | <a href="#/README?id=quote-62">62</a> |
-| 512 | increases | 1 | <a href="#/README?id=quote-62">62</a> |
-| 513 | predict | 1 | <a href="#/README?id=quote-63">63</a> |
-| 514 | invent | 1 | <a href="#/README?id=quote-63">63</a> |
-| 515 | bitch | 1 | <a href="#/README?id=quote-64">64</a> |
-| 516 | late | 1 | <a href="#/README?id=quote-65">65</a> |
-| 517 | performance | 1 | <a href="#/README?id=quote-66">66</a> |
-| 518 | improvement | 1 | <a href="#/README?id=quote-66">66</a> |
-| 519 | transition | 1 | <a href="#/README?id=quote-66">66</a> |
-| 520 | nonworking | 1 | <a href="#/README?id=quote-66">66</a> |
-| 521 | today | 1 | <a href="#/README?id=quote-67">67</a> |
-| 522 | race | 1 | <a href="#/README?id=quote-67">67</a> |
-| 523 | striving | 1 | <a href="#/README?id=quote-67">67</a> |
-| 524 | idiot | 1 | <a href="#/README?id=quote-67">67</a> |
-| 525 | proof | 1 | <a href="#/README?id=quote-67">67</a> |
-| 526 | produce | 1 | <a href="#/README?id=quote-67">67</a> |
-| 527 | idiots | 1 | <a href="#/README?id=quote-67">67</a> |
-| 528 | winning | 1 | <a href="#/README?id=quote-67">67</a> |
-| 529 | novices | 1 | <a href="#/README?id=quote-68">68</a> |
-| 530 | insert | 1 | <a href="#/README?id=quote-68">68</a> |
-| 531 | corrective | 1 | <a href="#/README?id=quote-68">68</a> |
-| 532 | remove | 1 | <a href="#/README?id=quote-68">68</a> |
-| 533 | defective | 1 | <a href="#/README?id=quote-68">68</a> |
-| 534 | constructing | 1 | <a href="#/README?id=quote-69">69</a> |
-| 535 | obvious | 1 | <a href="#/README?id=quote-69">69</a> |
-| 536 | method | 1 | <a href="#/README?id=quote-69">69</a> |
-| 537 | some | 1 | <a href="#/README?id=quote-70">70</a> |
-| 538 | confronted | 1 | <a href="#/README?id=quote-70">70</a> |
-| 539 | regular | 1 | <a href="#/README?id=quote-70">70</a> |
-| 540 | expressions | 1 | <a href="#/README?id=quote-70">70</a> |
-| 541 | xml | 1 | <a href="#/README?id=quote-71">71</a> |
-| 542 | violence | 1 | <a href="#/README?id=quote-71">71</a> |
-| 543 | guy | 1 | <a href="#/README?id=quote-72">72</a> |
-| 544 | ends | 1 | <a href="#/README?id=quote-72">72</a> |
-| 545 | maintaining | 1 | <a href="#/README?id=quote-72">72</a> |
-| 546 | violent | 1 | <a href="#/README?id=quote-72">72</a> |
-| 547 | psychopath | 1 | <a href="#/README?id=quote-72">72</a> |
-| 548 | live | 1 | <a href="#/README?id=quote-72">72</a> |
-| 549 | named | 1 | <a href="#/README?id=quote-73">73</a> |
-| 550 | net | 1 | <a href="#/README?id=quote-73">73</a> |
-| 551 | wouldn | 1 | <a href="#/README?id=quote-73">73</a> |
-| 552 | directory | 1 | <a href="#/README?id=quote-73">73</a> |
-| 553 | listing | 1 | <a href="#/README?id=quote-73">73</a> |
-| 554 | true | 1 | <a href="#/README?id=quote-74">74</a> |
-| 555 | garbage | 1 | <a href="#/README?id=quote-74">74</a> |
-| 556 | collection | 1 | <a href="#/README?id=quote-74">74</a> |
-| 557 | delete | 1 | <a href="#/README?id=quote-74">74</a> |
-| 558 | upon | 1 | <a href="#/README?id=quote-74">74</a> |
-| 559 | execution | 1 | <a href="#/README?id=quote-74">74</a> |
-| 560 | shoot | 1 | <a href="#/README?id=quote-75">75</a> |
-| 561 | foot | 1 | <a href="#/README?id=quote-75">75</a> |
-| 562 | harder | 1 | <a href="#/README?id=quote-75">75</a> |
-| 563 | blows | 1 | <a href="#/README?id=quote-75">75</a> |
-| 564 | leg | 1 | <a href="#/README?id=quote-75">75</a> |
-| 565 | invalidation | 1 | <a href="#/README?id=quote-76">76</a> |
-| 566 | naming | 1 | <a href="#/README?id=quote-76">76</a> |
-| 567 | crossing | 1 | <a href="#/README?id=quote-77">77</a> |
-| 568 | street | 1 | <a href="#/README?id=quote-77">77</a> |
-| 569 | bikinis | 1 | <a href="#/README?id=quote-78">78</a> |
-| 570 | guesswork | 1 | <a href="#/README?id=quote-78">78</a> |
-| 571 | takes | 1 | <a href="#/README?id=quote-79">79</a> |
-| 572 | genius | 1 | <a href="#/README?id=quote-79">79</a> |
-| 573 | parts | 1 | <a href="#/README?id=quote-80">80</a> |
-| 574 | kicked | 1 | <a href="#/README?id=quote-80">80</a> |
-| 575 | property | 1 | <a href="#/README?id=quote-81">81</a> |
-| 576 | accomplishes | 1 | <a href="#/README?id=quote-81">81</a> |
-| 577 | intention | 1 | <a href="#/README?id=quote-81">81</a> |
-| 578 | user | 1 | <a href="#/README?id=quote-81">81</a> |
-| 579 | interested | 1 | <a href="#/README?id=quote-82">82</a> |
-| 580 | amazing | 1 | <a href="#/README?id=quote-83">83</a> |
-| 581 | achievement | 1 | <a href="#/README?id=quote-83">83</a> |
-| 582 | continuing | 1 | <a href="#/README?id=quote-83">83</a> |
-| 583 | cancellation | 1 | <a href="#/README?id=quote-83">83</a> |
-| 584 | steady | 1 | <a href="#/README?id=quote-83">83</a> |
-| 585 | staggering | 1 | <a href="#/README?id=quote-83">83</a> |
-| 586 | gains | 1 | <a href="#/README?id=quote-83">83</a> |
-| 587 | major | 1 | <a href="#/README?id=quote-84">84</a> |
-| 588 | berkeley | 1 | <a href="#/README?id=quote-84">84</a> |
-| 589 | lsd | 1 | <a href="#/README?id=quote-84">84</a> |
-| 590 | coincidence | 1 | <a href="#/README?id=quote-84">84</a> |
-| 591 | short | 1 | <a href="#/README?id=quote-85">85</a> |
-| 592 | distance | 1 | <a href="#/README?id=quote-85">85</a> |
-| 593 | ahead | 1 | <a href="#/README?id=quote-85">85</a> |
-| 594 | plenty | 1 | <a href="#/README?id=quote-85">85</a> |
-| 595 | needs | 1 | <a href="#/README?id=quote-85">85</a> |
-| 596 | question | 1 | <a href="#/README?id=quote-86">86</a> |
-| 597 | answered | 1 | <a href="#/README?id=quote-86">86</a> |
-| 598 | century | 1 | <a href="#/README?id=quote-86">86</a> |
-| 599 | silly | 1 | <a href="#/README?id=quote-87">87</a> |
-| 600 | expected | 1 | <a href="#/README?id=quote-88">88</a> |
-| 601 | infallible | 1 | <a href="#/README?id=quote-88">88</a> |
-| 602 | cannot | 1 | <a href="#/README?id=quote-88">88</a> |
-| 603 | intelligent | 1 | <a href="#/README?id=quote-88">88</a> |
-| 604 | differential | 1 | <a href="#/README?id=quote-89">89</a> |
-| 605 | equation | 1 | <a href="#/README?id=quote-89">89</a> |
-| 606 | religion | 1 | <a href="#/README?id=quote-89">89</a> |
-| 607 | boundary | 1 | <a href="#/README?id=quote-89">89</a> |
-| 608 | condition | 1 | <a href="#/README?id=quote-89">89</a> |
-| 609 | realize | 1 | <a href="#/README?id=quote-90">90</a> |
-| 610 | young | 1 | <a href="#/README?id=quote-91">91</a> |
-| 611 | sciences | 1 | <a href="#/README?id=quote-92">92</a> |
-| 612 | hardly | 1 | <a href="#/README?id=quote-92">92</a> |
-| 613 | interpret | 1 | <a href="#/README?id=quote-92">92</a> |
-| 614 | mainly | 1 | <a href="#/README?id=quote-92">92</a> |
-| 615 | precise | 1 | <a href="#/README?id=quote-93">93</a> |
-| 616 | talking | 1 | <a href="#/README?id=quote-93">93</a> |
-| 617 | attempts | 1 | <a href="#/README?id=quote-94">94</a> |
-| 618 | generate | 1 | <a href="#/README?id=quote-94">94</a> |
-| 619 | deterministic | 1 | <a href="#/README?id=quote-94">94</a> |
-| 620 | course | 1 | <a href="#/README?id=quote-94">94</a> |
-| 621 | sin | 1 | <a href="#/README?id=quote-94">94</a> |
-| 622 | ultimate | 1 | <a href="#/README?id=quote-95">95</a> |
-| 623 | sophistication | 1 | <a href="#/README?id=quote-95">95</a> |
-| 624 | slow | 1 | <a href="#/README?id=quote-96">96</a> |
-| 625 | difference | 1 | <a href="#/README?id=quote-97">97</a> |
-| 626 | lines | 1 | <a href="#/README?id=quote-98">98</a> |
-| 627 | aircraft | 1 | <a href="#/README?id=quote-98">98</a> |
-| 628 | weight | 1 | <a href="#/README?id=quote-98">98</a> |
-| 629 | usenet | 1 | <a href="#/README?id=quote-99">99</a> |
-| 630 | post | 1 | <a href="#/README?id=quote-99">99</a> |
-| 631 | something | 1 | <a href="#/README?id=quote-99">99</a> |
-| 632 | wait | 1 | <a href="#/README?id=quote-99">99</a> |
-| 633 | corrections | 1 | <a href="#/README?id=quote-99">99</a> |
-| 634 | remaining | 1 | <a href="#/README?id=quote-100">100</a> |
-| 635 | water | 1 | <a href="#/README?id=quote-101">101</a> |
-| 636 | developing | 1 | <a href="#/README?id=quote-101">101</a> |
-| 637 | specification | 1 | <a href="#/README?id=quote-101">101</a> |
-| 638 | frozen | 1 | <a href="#/README?id=quote-101">101</a> |
-| 639 | troubleshooting | 1 | <a href="#/README?id=quote-102">102</a> |
-| 640 | shoots | 1 | <a href="#/README?id=quote-102">102</a> |
-| 641 | err | 1 | <a href="#/README?id=quote-103">103</a> |
-| 642 | foul | 1 | <a href="#/README?id=quote-103">103</a> |
-| 643 | need | 1 | <a href="#/README?id=quote-103">103</a> |
-| 644 | free | 1 | <a href="#/README?id=quote-104">104</a> |
-| 645 | third | 1 | <a href="#/README?id=quote-104">104</a> |
-| 646 | generation | 1 | <a href="#/README?id=quote-105">105</a> |
-| 647 | left | 1 | <a href="#/README?id=quote-105">105</a> |
-| 648 | chance | 1 | <a href="#/README?id=quote-105">105</a> |
-| 649 | likely | 1 | <a href="#/README?id=quote-106">106</a> |
-| 650 | destroyed | 1 | <a href="#/README?id=quote-106">106</a> |
-| 651 | agree | 1 | <a href="#/README?id=quote-106">106</a> |
-| 652 | accident | 1 | <a href="#/README?id=quote-106">106</a> |
-| 653 | professionals | 1 | <a href="#/README?id=quote-106">106</a> |
-| 654 | cause | 1 | <a href="#/README?id=quote-106">106</a> |
-| 655 | accidents | 1 | <a href="#/README?id=quote-106">106</a> |
-| 656 | hardest | 1 | <a href="#/README?id=quote-107">107</a> |
-| 657 | part | 1 | <a href="#/README?id=quote-107">107</a> |
-| 658 | keeping | 1 | <a href="#/README?id=quote-107">107</a> |
-| 659 | features | 1 | <a href="#/README?id=quote-107">107</a> |
-| 660 | support | 1 | <a href="#/README?id=quote-108">108</a> |
-| 661 | purpose | 1 | <a href="#/README?id=quote-109">109</a> |
-| 662 | engineering | 1 | <a href="#/README?id=quote-109">109</a> |
-| 663 | control | 1 | <a href="#/README?id=quote-109">109</a> |
-| 664 | complexity | 1 | <a href="#/README?id=quote-109">109</a> |
-| 665 | create | 1 | <a href="#/README?id=quote-109">109</a> |
-| 666 | requirements | 1 | <a href="#/README?id=quote-110">110</a> |
-| 667 | measure | 1 | <a href="#/README?id=quote-110">110</a> |
-| 668 | matters | 1 | <a href="#/README?id=quote-110">110</a> |
-| 669 | solution | 1 | <a href="#/README?id=quote-110">110</a> |
-| 670 | solves | 1 | <a href="#/README?id=quote-110">110</a> |
-| 671 | customer | 1 | <a href="#/README?id=quote-110">110</a> |
-| 672 | shifting | 1 | <a href="#/README?id=quote-110">110</a> |
-| 673 | evolution | 1 | <a href="#/README?id=quote-111">111</a> |
-| 674 | fortran | 1 | <a href="#/README?id=quote-111">111</a> |
-| 675 | non | 1 | <a href="#/README?id=quote-111">111</a> |
-| 676 | weakly | 1 | <a href="#/README?id=quote-111">111</a> |
-| 677 | ada | 1 | <a href="#/README?id=quote-111">111</a> |
-| 678 | hyped | 1 | <a href="#/README?id=quote-111">111</a> |
-| 679 | add | 1 | <a href="#/README?id=quote-112">112</a> |
-| 680 | improve | 1 | <a href="#/README?id=quote-112">112</a> |
-| 681 | isn | 1 | <a href="#/README?id=quote-112">112</a> |
-| 682 | needed | 1 | <a href="#/README?id=quote-112">112</a> |
-| 683 | low | 1 | <a href="#/README?id=quote-113">113</a> |
-| 684 | level | 1 | <a href="#/README?id=quote-113">113</a> |
-| 685 | require | 1 | <a href="#/README?id=quote-113">113</a> |
-| 686 | attention | 1 | <a href="#/README?id=quote-113">113</a> |
-| 687 | irrelevant | 1 | <a href="#/README?id=quote-113">113</a> |
-| 688 | thought | 1 | <a href="#/README?id=quote-114">114</a> |
-| 689 | creative | 1 | <a href="#/README?id=quote-114">114</a> |
-| 690 | trick | 1 | <a href="#/README?id=quote-115">115</a> |
-| 691 | fix | 1 | <a href="#/README?id=quote-115">115</a> |
-| 692 | rather | 1 | <a href="#/README?id=quote-115">115</a> |
-| 693 | distributed | 1 | <a href="#/README?id=quote-116">116</a> |
-| 694 | systems | 1 | <a href="#/README?id=quote-116">116</a> |
-| 695 | order | 1 | <a href="#/README?id=quote-116">116</a> |
-| 696 | messages | 1 | <a href="#/README?id=quote-116">116</a> |
-| 697 | truly | 1 | <a href="#/README?id=quote-117">117</a> |
-| 698 | secure | 1 | <a href="#/README?id=quote-117">117</a> |
-| 699 | powered | 1 | <a href="#/README?id=quote-117">117</a> |
-| 700 | cast | 1 | <a href="#/README?id=quote-117">117</a> |
-| 701 | block | 1 | <a href="#/README?id=quote-117">117</a> |
-| 702 | concrete | 1 | <a href="#/README?id=quote-117">117</a> |
-| 703 | sealed | 1 | <a href="#/README?id=quote-117">117</a> |
-| 704 | lined | 1 | <a href="#/README?id=quote-117">117</a> |
-| 705 | armed | 1 | <a href="#/README?id=quote-117">117</a> |
-| 706 | guards | 1 | <a href="#/README?id=quote-117">117</a> |
-| 707 | platforms | 1 | <a href="#/README?id=quote-118">118</a> |
-| 708 | anal | 1 | <a href="#/README?id=quote-118">118</a> |
-| 709 | genders | 1 | <a href="#/README?id=quote-118">118</a> |
-| 710 | cobol | 1 | <a href="#/README?id=quote-119">119</a> |
-| 711 | sailing | 1 | <a href="#/README?id=quote-119">119</a> |
-| 712 | atlantic | 1 | <a href="#/README?id=quote-119">119</a> |
-| 713 | bathtub | 1 | <a href="#/README?id=quote-119">119</a> |
-| 714 | perl | 1 | <a href="#/README?id=quote-120">120</a> |
-| 715 | rsa | 1 | <a href="#/README?id=quote-120">120</a> |
-| 716 | encryption | 1 | <a href="#/README?id=quote-120">120</a> |
-| 717 | javascript | 1 | <a href="#/README?id=quote-121">121</a> |
-| 718 | carpet | 1 | <a href="#/README?id=quote-121">121</a> |
-| 719 | removing | 1 | <a href="#/README?id=quote-122">122</a> |
-| 720 | putting | 1 | <a href="#/README?id=quote-122">122</a> |
-| 721 | inherit | 1 | <a href="#/README?id=quote-123">123</a> |
-| 722 | useless | 1 | <a href="#/README?id=quote-125">125</a> |
-| 723 | give | 1 | <a href="#/README?id=quote-125">125</a> |
-| 724 | answers | 1 | <a href="#/README?id=quote-125">125</a> |
-| 725 | comes | 1 | <a href="#/README?id=quote-126">126</a> |
-| 726 | either | 1 | <a href="#/README?id=quote-126">126</a> |
-| 727 | such | 1 | <a href="#/README?id=quote-126">126</a> |
-| 728 | reuse | 1 | <a href="#/README?id=quote-126">126</a> |
-| 729 | natural | 1 | <a href="#/README?id=quote-127">127</a> |
-| 730 | stupidity | 1 | <a href="#/README?id=quote-127">127</a> |
-| 731 | superposition | 1 | <a href="#/README?id=quote-128">128</a> |
-| 732 | confusion | 1 | <a href="#/README?id=quote-128">128</a> |
-| 733 | complain | 1 | <a href="#/README?id=quote-130">130</a> |
-| 734 | boolean | 1 | <a href="#/README?id=quote-131">131</a> |
-| 735 | bit | 1 | <a href="#/README?id=quote-131">131</a> |
-| 736 | middle | 1 | <a href="#/README?id=quote-132">132</a> |
-| 737 | attack | 1 | <a href="#/README?id=quote-132">132</a> |
-| 738 | reading | 1 | <a href="#/README?id=quote-132">132</a> |
-| 739 | opening | 1 | <a href="#/README?id=quote-132">132</a> |
-| 740 | explodes | 1 | <a href="#/README?id=quote-132">132</a> |
-| 741 | tries | 1 | <a href="#/README?id=quote-132">132</a> |
-| 742 | movie | 1 | <a href="#/README?id=quote-133">133</a> |
-| 743 | git | 1 | <a href="#/README?id=quote-134">134</a> |
-| 744 | timeline | 1 | <a href="#/README?id=quote-134">134</a> |
-| 745 | utility | 1 | <a href="#/README?id=quote-134">134</a> |
-| 746 | adventure | 1 | <a href="#/README?id=quote-134">134</a> |
-| 747 | hundreds | 1 | <a href="#/README?id=quote-134">134</a> |
-| 748 | highly | 1 | <a href="#/README?id=quote-135">135</a> |
-| 749 | inefficient | 1 | <a href="#/README?id=quote-135">135</a> |
-| 750 | spreadsheet | 1 | <a href="#/README?id=quote-135">135</a> |
-| 751 | apparently | 1 | <a href="#/README?id=quote-135">135</a> |
-| 752 | revolutionary | 1 | <a href="#/README?id=quote-135">135</a> |
-| 753 | cats | 1 | <a href="#/README?id=quote-136">136</a> |
-| 754 | update | 1 | <a href="#/README?id=quote-136">136</a> |
-| 755 | worldview | 1 | <a href="#/README?id=quote-136">136</a> |
-| 756 | incorporate | 1 | <a href="#/README?id=quote-136">136</a> |
-| 757 | meant | 1 | <a href="#/README?id=quote-137">137</a> |
-| 758 | weigh | 1 | <a href="#/README?id=quote-138">138</a> |
-| 759 | tons | 1 | <a href="#/README?id=quote-138">138</a> |
-| 760 | mechanical | 1 | <a href="#/README?id=quote-139">139</a> |
-| 761 | monkey | 1 | <a href="#/README?id=quote-139">139</a> |
-| 762 | shotgun | 1 | <a href="#/README?id=quote-139">139</a> |
-| 763 | programmed | 1 | <a href="#/README?id=quote-139">139</a> |
-| 764 | desired | 1 | <a href="#/README?id=quote-139">139</a> |
-| 765 | black | 1 | <a href="#/README?id=quote-140">140</a> |
-| 766 | strong | 1 | <a href="#/README?id=quote-140">140</a> |
-| 767 | gravitational | 1 | <a href="#/README?id=quote-140">140</a> |
-| 768 | pull | 1 | <a href="#/README?id=quote-140">140</a> |
-| 769 | productivity | 1 | <a href="#/README?id=quote-140">140</a> |
-| 770 | close | 1 | <a href="#/README?id=quote-140">140</a> |
-| 771 | escape | 1 | <a href="#/README?id=quote-140">140</a> |
-| 772 | traditional | 1 | <a href="#/README?id=quote-141">141</a> |
-| 773 | mechanics | 1 | <a href="#/README?id=quote-141">141</a> |
-| 774 | classical | 1 | <a href="#/README?id=quote-141">141</a> |
-| 775 | physics | 1 | <a href="#/README?id=quote-141">141</a> |
-| 776 | less | 1 | <a href="#/README?id=quote-141">141</a> |
-| 777 | intuitive | 1 | <a href="#/README?id=quote-141">141</a> |
-| 778 | yet | 1 | <a href="#/README?id=quote-141">141</a> |
-| 779 | somehow | 1 | <a href="#/README?id=quote-141">141</a> |
-| 780 | rorschach | 1 | <a href="#/README?id=quote-142">142</a> |
-| 781 | sees | 1 | <a href="#/README?id=quote-142">142</a> |
-| 782 | salvation | 1 | <a href="#/README?id=quote-142">142</a> |
-| 783 | harbinger | 1 | <a href="#/README?id=quote-142">142</a> |
-| 784 | doom | 1 | <a href="#/README?id=quote-142">142</a> |
-| 785 | cloud | 1 | <a href="#/README?id=quote-143">143</a> |
-| 786 | added | 1 | <a href="#/README?id=quote-143">143</a> |
-| 787 | excitement | 1 | <a href="#/README?id=quote-143">143</a> |
-| 788 | knowing | 1 | <a href="#/README?id=quote-143">143</a> |
-| 789 | technological | 1 | <a href="#/README?id=quote-144">144</a> |
-| 790 | equivalent | 1 | <a href="#/README?id=quote-144">144</a> |
-| 791 | kill | 1 | <a href="#/README?id=quote-144">144</a> |
-| 792 | sledgehammer | 1 | <a href="#/README?id=quote-144">144</a> |
-| 793 | hit | 1 | <a href="#/README?id=quote-144">144</a> |
-| 794 | table | 1 | <a href="#/README?id=quote-144">144</a> |
-| 795 | agile | 1 | <a href="#/README?id=quote-145">145</a> |
-| 796 | driving | 1 | <a href="#/README?id=quote-145">145</a> |
-| 797 | potentially | 1 | <a href="#/README?id=quote-145">145</a> |
-| 798 | faster | 1 | <a href="#/README?id=quote-145">145</a> |
-| 799 | ending | 1 | <a href="#/README?id=quote-145">145</a> |
-| 800 | three | 1 | <a href="#/README?id=quote-145">145</a> |
-| 801 | wheels | 1 | <a href="#/README?id=quote-145">145</a> |
-| 802 | steering | 1 | <a href="#/README?id=quote-145">145</a> |
-| 803 | wheel | 1 | <a href="#/README?id=quote-145">145</a> |
-| 804 | connected | 1 | <a href="#/README?id=quote-145">145</a> |
-| 805 | boxing | 1 | <a href="#/README?id=quote-146">146</a> |
-| 806 | wins | 1 | <a href="#/README?id=quote-146">146</a> |
-| 807 | referee | 1 | <a href="#/README?id=quote-146">146</a> |
-| 808 | clumsy | 1 | <a href="#/README?id=quote-146">146</a> |
-| 809 | recursion | 1 | <a href="#/README?id=quote-147">147</a> |
-| 810 | book | 1 | <a href="#/README?id=quote-147">147</a> |
-| 811 | tells | 1 | <a href="#/README?id=quote-147">147</a> |
-| 812 | eventually | 1 | <a href="#/README?id=quote-147">147</a> |
-| 813 | stack | 1 | <a href="#/README?id=quote-147">147</a> |
-| 814 | space | 1 | <a href="#/README?id=quote-147">147</a> |
-| 815 | multithreading | 1 | <a href="#/README?id=quote-148">148</a> |
-| 816 | impressive | 1 | <a href="#/README?id=quote-148">148</a> |
-| 817 | right | 1 | <a href="#/README?id=quote-148">148</a> |
-| 818 | falls | 1 | <a href="#/README?id=quote-148">148</a> |
-| 819 | apart | 1 | <a href="#/README?id=quote-148">148</a> |
-| 820 | messily | 1 | <a href="#/README?id=quote-148">148</a> |
-| 821 | notation | 1 | <a href="#/README?id=quote-149">149</a> |
-| 822 | speedometer | 1 | <a href="#/README?id=quote-149">149</a> |
-| 823 | algorithms | 1 | <a href="#/README?id=quote-149">149</a> |
-| 824 | speed | 1 | <a href="#/README?id=quote-149">149</a> |
-| 825 | limit | 1 | <a href="#/README?id=quote-149">149</a> |
-| 826 | computational | 1 | <a href="#/README?id=quote-149">149</a> |
-| 827 | feasibility | 1 | <a href="#/README?id=quote-149">149</a> |
-| 828 | novel | 1 | <a href="#/README?id=quote-150">150</a> |
-| 829 | victim | 1 | <a href="#/README?id=quote-150">150</a> |
-| 830 | murder | 1 | <a href="#/README?id=quote-150">150</a> |
-| 831 | weapon | 1 | <a href="#/README?id=quote-150">150</a> |
-| 832 | refactoring | 1 | <a href="#/README?id=quote-151">151</a> |
-| 833 | rearranging | 1 | <a href="#/README?id=quote-151">151</a> |
-| 834 | deck | 1 | <a href="#/README?id=quote-151">151</a> |
-| 835 | chairs | 1 | <a href="#/README?id=quote-151">151</a> |
-| 836 | titanic | 1 | <a href="#/README?id=quote-151">151</a> |
-| 837 | nicer | 1 | <a href="#/README?id=quote-151">151</a> |
-| 838 | underlying | 1 | <a href="#/README?id=quote-151">151</a> |
-| 839 | architecture | 1 | <a href="#/README?id=quote-151">151</a> |
-| 840 | flawed | 1 | <a href="#/README?id=quote-151">151</a> |
-| 841 | sink | 1 | <a href="#/README?id=quote-151">151</a> |
-| 842 | teenage | 1 | <a href="#/README?id=quote-152">152</a> |
-| 843 | talks | 1 | <a href="#/README?id=quote-152">152</a> |
-| 844 | thinks | 1 | <a href="#/README?id=quote-152">152</a> |
-| 845 | claims | 1 | <a href="#/README?id=quote-152">152</a> |
-| 846 | flaming | 1 | <a href="#/README?id=quote-153">153</a> |
-| 847 | tightrope | 1 | <a href="#/README?id=quote-153">153</a> |
-| 848 | pit | 1 | <a href="#/README?id=quote-153">153</a> |
-| 849 | alligators | 1 | <a href="#/README?id=quote-153">153</a> |
-| 850 | powerful | 1 | <a href="#/README?id=quote-153">153</a> |
-| 851 | disaster | 1 | <a href="#/README?id=quote-153">153</a> |
-| 852 | toddler | 1 | <a href="#/README?id=quote-154">154</a> |
-| 853 | hammer | 1 | <a href="#/README?id=quote-154">154</a> |
-| 854 | nail | 1 | <a href="#/README?id=quote-154">154</a> |
-| 855 | probably | 1 | <a href="#/README?id=quote-154">154</a> |
-| 856 | shouldn | 1 | <a href="#/README?id=quote-154">154</a> |
-| 857 | near | 1 | <a href="#/README?id=quote-154">154</a> |
-| 858 | valuable | 1 | <a href="#/README?id=quote-154">154</a> |
-| 859 | matures | 1 | <a href="#/README?id=quote-154">154</a> |
-| 860 | virtual | 1 | <a href="#/README?id=quote-155">155</a> |
-| 861 | dreaming | 1 | <a href="#/README?id=quote-155">155</a> |
-| 862 | eyes | 1 | <a href="#/README?id=quote-155">155</a> |
-| 863 | open | 1 | <a href="#/README?id=quote-155">155</a> |
-| 864 | bulky | 1 | <a href="#/README?id=quote-155">155</a> |
-| 865 | headset | 1 | <a href="#/README?id=quote-155">155</a> |
-| 866 | tripping | 1 | <a href="#/README?id=quote-155">155</a> |
-| 867 | furniture | 1 | <a href="#/README?id=quote-155">155</a> |
-| 868 | dreams | 1 | <a href="#/README?id=quote-155">155</a> |
-| 869 | designed | 1 | <a href="#/README?id=quote-155">155</a> |
-| 870 | cryptocurrency | 1 | <a href="#/README?id=quote-156">156</a> |
-| 871 | game | 1 | <a href="#/README?id=quote-156">156</a> |
-| 872 | hot | 1 | <a href="#/README?id=quote-156">156</a> |
-| 873 | worth | 1 | <a href="#/README?id=quote-156">156</a> |
-| 874 | millions | 1 | <a href="#/README?id=quote-156">156</a> |
-| 875 | pennies | 1 | <a href="#/README?id=quote-156">156</a> |
-| 876 | next | 1 | <a href="#/README?id=quote-156">156</a> |
-| 877 | cheetah | 1 | <a href="#/README?id=quote-157">157</a> |
-| 878 | snails | 1 | <a href="#/README?id=quote-157">157</a> |
-| 879 | incredibly | 1 | <a href="#/README?id=quote-157">157</a> |
-| 880 | practical | 1 | <a href="#/README?id=quote-157">157</a> |
-| 881 | reason | 1 | <a href="#/README?id=quote-157">157</a> |
-| 882 | augmented | 1 | <a href="#/README?id=quote-158">158</a> |
-| 883 | giving | 1 | <a href="#/README?id=quote-158">158</a> |
-| 884 | photoshop | 1 | <a href="#/README?id=quote-158">158</a> |
-| 885 | quite | 1 | <a href="#/README?id=quote-158">158</a> |
-| 886 | real | 1 | <a href="#/README?id=quote-158">158</a> |
-| 887 | cybersecurity | 1 | <a href="#/README?id=quote-159">159</a> |
-| 888 | playing | 1 | <a href="#/README?id=quote-159">159</a> |
-| 889 | whack | 1 | <a href="#/README?id=quote-159">159</a> |
-| 890 | mole | 1 | <a href="#/README?id=quote-159">159</a> |
-| 891 | blindfold | 1 | <a href="#/README?id=quote-159">159</a> |
-| 892 | swinging | 1 | <a href="#/README?id=quote-159">159</a> |
-| 893 | hitting | 1 | <a href="#/README?id=quote-159">159</a> |
-| 894 | moles | 1 | <a href="#/README?id=quote-159">159</a> |
-| 895 | evolving | 1 | <a href="#/README?id=quote-159">159</a> |
-| 896 | godzillas | 1 | <a href="#/README?id=quote-159">159</a> |
-| 897 | edge | 1 | <a href="#/README?id=quote-160">160</a> |
-| 898 | tiny | 1 | <a href="#/README?id=quote-160">160</a> |
-| 899 | superhero | 1 | <a href="#/README?id=quote-160">160</a> |
-| 900 | device | 1 | <a href="#/README?id=quote-160">160</a> |
-| 901 | great | 1 | <a href="#/README?id=quote-160">160</a> |
-| 902 | quick | 1 | <a href="#/README?id=quote-160">160</a> |
-| 903 | rescues | 1 | <a href="#/README?id=quote-160">160</a> |
-| 904 | nosql | 1 | <a href="#/README?id=quote-161">161</a> |
-| 905 | databases | 1 | <a href="#/README?id=quote-161">161</a> |
-| 906 | rebellious | 1 | <a href="#/README?id=quote-161">161</a> |
-| 907 | teenager | 1 | <a href="#/README?id=quote-161">161</a> |
-| 908 | chaos | 1 | <a href="#/README?id=quote-161">161</a> |
-| 909 | luck | 1 | <a href="#/README?id=quote-161">161</a> |
-| 910 | figuring | 1 | <a href="#/README?id=quote-161">161</a> |
-| 911 | created | 1 | <a href="#/README?id=quote-161">161</a> |
-| 912 | serverless | 1 | <a href="#/README?id=quote-162">162</a> |
-| 913 | ordering | 1 | <a href="#/README?id=quote-162">162</a> |
-| 914 | food | 1 | <a href="#/README?id=quote-162">162</a> |
-| 915 | worrying | 1 | <a href="#/README?id=quote-162">162</a> |
-| 916 | kitchen | 1 | <a href="#/README?id=quote-162">162</a> |
-| 917 | surprised | 1 | <a href="#/README?id=quote-162">162</a> |
-| 918 | pizza | 1 | <a href="#/README?id=quote-162">162</a> |
-| 919 | arrives | 1 | <a href="#/README?id=quote-162">162</a> |
-| 920 | cold | 1 | <a href="#/README?id=quote-162">162</a> |
-| 921 | expensive | 1 | <a href="#/README?id=quote-162">162</a> |
-| 922 | ai | 1 | <a href="#/README?id=quote-163">163</a> |
-| 923 | beauty | 1 | <a href="#/README?id=quote-163">163</a> |
-| 924 | pageant | 1 | <a href="#/README?id=quote-163">163</a> |
-| 925 | contestants | 1 | <a href="#/README?id=quote-163">163</a> |
-| 926 | masks | 1 | <a href="#/README?id=quote-163">163</a> |
-| 927 | communicating | 1 | <a href="#/README?id=quote-163">163</a> |
-| 928 | through | 1 | <a href="#/README?id=quote-163">163</a> |
-| 929 | translators | 1 | <a href="#/README?id=quote-163">163</a> |
-| 930 | metaverse | 1 | <a href="#/README?id=quote-164">164</a> |
-| 931 | costume | 1 | <a href="#/README?id=quote-164">164</a> |
-| 932 | party | 1 | <a href="#/README?id=quote-164">164</a> |
-| 933 | invited | 1 | <a href="#/README?id=quote-164">164</a> |
-| 934 | guests | 1 | <a href="#/README?id=quote-164">164</a> |
-| 935 | figure | 1 | <a href="#/README?id=quote-164">164</a> |
-| 936 | put | 1 | <a href="#/README?id=quote-164">164</a> |
-| 937 | vr | 1 | <a href="#/README?id=quote-164">164</a> |
-| 938 | headsets | 1 | <a href="#/README?id=quote-164">164</a> |
-| 939 | were | 1 | <a href="#/README?id=quote-165">165</a> |
-| 940 | ssr | 1 | <a href="#/README?id=quote-165">165</a> |
-| 941 | php | 1 | <a href="#/README?id=quote-165">165</a> |
-| 942 | server | 1 | <a href="#/README?id=quote-165">165</a> |
-| 943 | side | 1 | <a href="#/README?id=quote-165">165</a> |
-| 944 | ago | 1 | <a href="#/README?id=quote-165">165</a> |
-| 945 | imagine | 1 | <a href="#/README?id=quote-166">166</a> |
-| 946 | ads | 1 | <a href="#/README?id=quote-166">166</a> |
-| 947 | annoying | 1 | <a href="#/README?id=quote-166">166</a> |
-| 948 | top | 1 | <a href="#/README?id=quote-167">167</a> |
-| 949 | product | 1 | <a href="#/README?id=quote-167">167</a> |
-| 950 | skills | 1 | <a href="#/README?id=quote-167">167</a> |
-| 951 | excel | 1 | <a href="#/README?id=quote-167">167</a> |
-| 952 | clear | 1 | <a href="#/README?id=quote-167">167</a> |
-| 953 | communication | 1 | <a href="#/README?id=quote-167">167</a> |
-| 954 | prioritization | 1 | <a href="#/README?id=quote-167">167</a> |
-| 955 | cern | 1 | <a href="#/README?id=quote-168">168</a> |
-| 956 | tape | 1 | <a href="#/README?id=quote-168">168</a> |
-| 957 | based | 1 | <a href="#/README?id=quote-168">168</a> |
-| 958 | storage | 1 | <a href="#/README?id=quote-168">168</a> |
-| 959 | since | 1 | <a href="#/README?id=quote-168">168</a> |
-| 960 | durable | 1 | <a href="#/README?id=quote-168">168</a> |
-| 961 | work | 1 | <a href="#/README?id=quote-168">168</a> |
-| 962 | tears | 1 | <a href="#/README?id=quote-168">168</a> |
-| 963 | taped | 1 | <a href="#/README?id=quote-168">168</a> |
-| 964 | together | 1 | <a href="#/README?id=quote-168">168</a> |
-| 965 | few | 1 | <a href="#/README?id=quote-168">168</a> |
-| 966 | files | 1 | <a href="#/README?id=quote-168">168</a> |
-| 967 | lost | 1 | <a href="#/README?id=quote-168">168</a> |
-| 968 | seriously | 1 | <a href="#/README?id=quote-169">169</a> |
-| 969 | truth | 1 | <a href="#/README?id=quote-169">169</a> |
-| 970 | companies | 1 | <a href="#/README?id=quote-169">169</a> |
-| 971 | stolen | 1 | <a href="#/README?id=quote-169">169</a> |
-| 972 | able | 1 | <a href="#/README?id=quote-170">170</a> |
-| 973 | barely | 1 | <a href="#/README?id=quote-170">170</a> |
-| 974 | position | 1 | <a href="#/README?id=quote-170">170</a> |
-| 975 | feel | 1 | <a href="#/README?id=quote-170">170</a> |
-| 976 | starting | 1 | <a href="#/README?id=quote-170">170</a> |
-| 977 | eat | 1 | <a href="#/README?id=quote-170">170</a> |
-| 978 | staring | 1 | <a href="#/README?id=quote-170">170</a> |
-| 979 | walls | 1 | <a href="#/README?id=quote-170">170</a> |
-| 980 | bitcoin | 1 | <a href="#/README?id=quote-172">172</a> |
-| 981 | connects | 1 | <a href="#/README?id=quote-172">172</a> |
-| 982 | running | 1 | <a href="#/README?id=quote-172">172</a> |
-| 983 | share | 1 | <a href="#/README?id=quote-172">172</a> |
-| 984 | single | 1 | <a href="#/README?id=quote-172">172</a> |
-| 985 | file | 1 | <a href="#/README?id=quote-172">172</a> |
-| 986 | called | 1 | <a href="#/README?id=quote-172">172</a> |
-| 987 | stopped | 1 | <a href="#/README?id=quote-173">173</a> |
-| 988 | startups | 1 | <a href="#/README?id=quote-173">173</a> |
-| 989 | bay | 1 | <a href="#/README?id=quote-173">173</a> |
-| 990 | area | 1 | <a href="#/README?id=quote-173">173</a> |
-| 991 | been | 1 | <a href="#/README?id=quote-173">173</a> |
-| 992 | somewhat | 1 | <a href="#/README?id=quote-173">173</a> |
-| 993 | obscured | 1 | <a href="#/README?id=quote-173">173</a> |
-| 994 | massive | 1 | <a href="#/README?id=quote-173">173</a> |
-| 995 | surge | 1 | <a href="#/README?id=quote-173">173</a> |
-| 996 | availability | 1 | <a href="#/README?id=quote-173">173</a> |
-| 997 | seed | 1 | <a href="#/README?id=quote-173">173</a> |
-| 998 | funding | 1 | <a href="#/README?id=quote-173">173</a> |
-| 999 | fed | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1000 | likes | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1001 | facebook | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1002 | points | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1003 | study | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1004 | algorithm | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1005 | knew | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1006 | personality | 1 | <a href="#/README?id=quote-174">174</a> |
-| 1007 | previously | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1008 | blogged | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1009 | pitfalls | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1010 | already | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1011 | known | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1012 | automate | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1013 | service | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1014 | fully | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1015 | blindly | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1016 | trusting | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1017 | automation | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1018 | under | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1019 | hood | 1 | <a href="#/README?id=quote-175">175</a> |
-| 1020 | react | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1021 | hooks | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1022 | api | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1023 | offers | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1024 | little | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1025 | coworkers | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1026 | dying | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1027 | rewrite | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1028 | portions | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1029 | app | 1 | <a href="#/README?id=quote-176">176</a> |
-| 1030 | relationship | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1031 | configuring | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1032 | epiphany | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1033 | sticking | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1034 | defaults | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1035 | preferred | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1036 | choices | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1037 | instantly | 1 | <a href="#/README?id=quote-177">177</a> |
-| 1038 | speedy | 1 | <a href="#/README?id=quote-178">178</a> |
-| 1039 | usually | 1 | <a href="#/README?id=quote-178">178</a> |
-| 1040 | focused | 1 | <a href="#/README?id=quote-178">178</a> |
-| 1041 | web | 1 | <a href="#/README?id=quote-179">179</a> |
-| 1042 | applications | 1 | <a href="#/README?id=quote-179">179</a> |
-| 1043 | frontends | 1 | <a href="#/README?id=quote-179">179</a> |
+| 109 | still | 5 | <a href="#/README?id=quote-151">151</a>, <a href="#/README?id=quote-157">157</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-168">168</a> |
+| 110 | much | 4 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-165">165</a> |
+| 111 | into | 4 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-159">159</a> |
+| 112 | works | 4 | <a href="#/README?id=quote-6">6</a>, <a href="#/README?id=quote-104">104</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a> |
+| 113 | ll | 4 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-168">168</a> |
+| 114 | person | 4 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-114">114</a>, <a href="#/README?id=quote-174">174</a> |
+| 115 | hard | 4 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-116">116</a> |
+| 116 | learning | 4 | <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-152">152</a> |
+| 117 | those | 4 | <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-17">17</a>, <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-64">64</a> |
+| 118 | solve | 4 | <a href="#/README?id=quote-19">19</a>, <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-71">71</a> |
+| 119 | any | 4 | <a href="#/README?id=quote-20">20</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-42">42</a>, <a href="#/README?id=quote-177">177</a> |
+| 120 | from | 4 | <a href="#/README?id=quote-20">20</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-170">170</a> |
+| 121 | very | 4 | <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-124">124</a> |
+| 122 | never | 4 | <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-136">136</a>, <a href="#/README?id=quote-143">143</a> |
+| 123 | own | 4 | <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-134">134</a> |
+| 124 | simple | 4 | <a href="#/README?id=quote-43">43</a>, <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-90">90</a> |
+| 125 | problems | 4 | <a href="#/README?id=quote-44">44</a>, <a href="#/README?id=quote-70">70</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-116">116</a> |
+| 126 | bugs | 4 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-123">123</a> |
+| 127 | programmer | 4 | <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-77">77</a> |
+| 128 | hardware | 4 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-96">96</a> |
+| 129 | tell | 4 | <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-149">149</a> |
+| 130 | development | 4 | <a href="#/README?id=quote-54">54</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-145">145</a> |
+| 131 | computing | 4 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-162">162</a> |
+| 132 | looks | 4 | <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-158">158</a> |
+| 133 | program | 4 | <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a>, <a href="#/README?id=quote-172">172</a> |
+| 134 | whether | 4 | <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-177">177</a> |
+| 135 | percent | 4 | <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a> |
+| 136 | really | 4 | <a href="#/README?id=quote-103">103</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-170">170</a> |
+| 137 | sex | 4 | <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-152">152</a> |
+| 138 | want | 4 | <a href="#/README?id=quote-115">115</a>, <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-162">162</a> |
+| 139 | quantum | 4 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-141">141</a> |
+| 140 | got | 4 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a> |
+| 141 | around | 4 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-173">173</a> |
+| 142 | banana | 4 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-171">171</a> |
+| 143 | blockchain | 4 | <a href="#/README?id=quote-135">135</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-172">172</a> |
+| 144 | everything | 4 | <a href="#/README?id=quote-141">141</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-154">154</a>, <a href="#/README?id=quote-158">158</a> |
+| 145 | else | 4 | <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-152">152</a>, <a href="#/README?id=quote-175">175</a>, <a href="#/README?id=quote-176">176</a> |
+| 146 | my | 4 | <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-176">176</a>, <a href="#/README?id=quote-177">177</a> |
+| 147 | may | 3 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-138">138</a>, <a href="#/README?id=quote-139">139</a> |
+| 148 | made | 3 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-165">165</a> |
+| 149 | small | 3 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
+| 150 | big | 3 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-149">149</a> |
+| 151 | reality | 3 | <a href="#/README?id=quote-9">9</a>, <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-158">158</a> |
+| 152 | enough | 3 | <a href="#/README?id=quote-10">10</a>, <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-71">71</a> |
+| 153 | will | 3 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-139">139</a> |
+| 154 | easy | 3 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-101">101</a> |
+| 155 | customers | 3 | <a href="#/README?id=quote-13">13</a>, <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-169">169</a> |
+| 156 | read | 3 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-147">147</a> |
+| 157 | writing | 3 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-134">134</a> |
+| 158 | risk | 3 | <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-145">145</a> |
+| 159 | explain | 3 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-169">169</a> |
+| 160 | then | 3 | <a href="#/README?id=quote-30">30</a>, <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-122">122</a> |
+| 161 | ve | 3 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 162 | save | 3 | <a href="#/README?id=quote-34">34</a>, <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-160">160</a> |
+| 163 | documentation | 3 | <a href="#/README?id=quote-35">35</a>, <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-124">124</a> |
+| 164 | same | 3 | <a href="#/README?id=quote-37">37</a>, <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-172">172</a> |
+| 165 | simplicity | 3 | <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-95">95</a> |
+| 166 | another | 3 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-146">146</a> |
+| 167 | light | 3 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-140">140</a> |
+| 168 | his | 3 | <a href="#/README?id=quote-47">47</a>, <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-58">58</a> |
+| 169 | many | 3 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-58">58</a> |
+| 170 | does | 3 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-177">177</a> |
+| 171 | humanity | 3 | <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-142">142</a> |
+| 172 | doesn | 3 | <a href="#/README?id=quote-60">60</a>, <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-149">149</a> |
+| 173 | nothing | 3 | <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-124">124</a>, <a href="#/README?id=quote-158">158</a> |
+| 174 | nobody | 3 | <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-152">152</a> |
+| 175 | state | 3 | <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-66">66</a>, <a href="#/README?id=quote-94">94</a> |
+| 176 | between | 3 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-146">146</a> |
+| 177 | bigger | 3 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-166">166</a> |
+| 178 | universe | 3 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-160">160</a> |
+| 179 | ways | 3 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-104">104</a> |
+| 180 | complicated | 3 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-141">141</a> |
+| 181 | unix | 3 | <a href="#/README?id=quote-73">73</a>, <a href="#/README?id=quote-79">79</a>, <a href="#/README?id=quote-84">84</a> |
+| 182 | would | 3 | <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-166">166</a>, <a href="#/README?id=quote-166">166</a> |
+| 183 | someone | 3 | <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-175">175</a> |
+| 184 | system | 3 | <a href="#/README?id=quote-80">80</a>, <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-161">161</a> |
+| 185 | idea | 3 | <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-173">173</a> |
+| 186 | also | 3 | <a href="#/README?id=quote-88">88</a>, <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
+| 187 | progress | 3 | <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-165">165</a> |
+| 188 | wrong | 3 | <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-131">131</a>, <a href="#/README?id=quote-136">136</a> |
+| 189 | back | 3 | <a href="#/README?id=quote-102">102</a>, <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-168">168</a> |
+| 190 | mistake | 3 | <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
+| 191 | our | 3 | <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-123">123</a>, <a href="#/README?id=quote-142">142</a> |
+| 192 | typed | 3 | <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a> |
+| 193 | exactly | 3 | <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-143">143</a> |
+| 194 | once | 3 | <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-140">140</a> |
+| 195 | delivery | 3 | <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-116">116</a>, <a href="#/README?id=quote-162">162</a> |
+| 196 | going | 3 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-151">151</a> |
+| 197 | environment | 3 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a>, <a href="#/README?id=quote-177">177</a> |
+| 198 | entire | 3 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-171">171</a> |
+| 199 | while | 3 | <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-153">153</a> |
+| 200 | actually | 3 | <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-172">172</a> |
+| 201 | having | 3 | <a href="#/README?id=quote-139">139</a>, <a href="#/README?id=quote-160">160</a>, <a href="#/README?id=quote-169">169</a> |
+| 202 | test | 3 | <a href="#/README?id=quote-142">142</a>, <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-163">163</a> |
+| 203 | data | 3 | <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
+| 204 | exciting | 3 | <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-154">154</a> |
+| 205 | years | 3 | <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-177">177</a> |
+| 206 | invented | 2 | <a href="#/README?id=quote-1">1</a>, <a href="#/README?id=quote-165">165</a> |
+| 207 | microsoft | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-73">73</a> |
+| 208 | taste | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a> |
+| 209 | mean | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-3">3</a> |
+| 210 | sense | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-93">93</a> |
+| 211 | products | 2 | <a href="#/README?id=quote-3">3</a>, <a href="#/README?id=quote-84">84</a> |
+| 212 | stay | 2 | <a href="#/README?id=quote-4">4</a>, <a href="#/README?id=quote-4">4</a> |
+| 213 | hungry | 2 | <a href="#/README?id=quote-4">4</a>, <a href="#/README?id=quote-153">153</a> |
+| 214 | away | 2 | <a href="#/README?id=quote-8">8</a>, <a href="#/README?id=quote-75">75</a> |
+| 215 | end | 2 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-86">86</a> |
+| 216 | working | 2 | <a href="#/README?id=quote-11">11</a>, <a href="#/README?id=quote-66">66</a> |
+| 217 | choose | 2 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-134">134</a> |
+| 218 | lazy | 2 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-12">12</a> |
+| 219 | job | 2 | <a href="#/README?id=quote-12">12</a>, <a href="#/README?id=quote-47">47</a> |
+| 220 | success | 2 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-110">110</a> |
+| 221 | smart | 2 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-22">22</a> |
+| 222 | thinking | 2 | <a href="#/README?id=quote-14">14</a>, <a href="#/README?id=quote-87">87</a> |
+| 223 | look | 2 | <a href="#/README?id=quote-15">15</a>, <a href="#/README?id=quote-151">151</a> |
+| 224 | must | 2 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-122">122</a> |
+| 225 | machines | 2 | <a href="#/README?id=quote-18">18</a>, <a href="#/README?id=quote-86">86</a> |
+| 226 | cheap | 2 | <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-173">173</a> |
+| 227 | show | 2 | <a href="#/README?id=quote-21">21</a>, <a href="#/README?id=quote-73">73</a> |
+| 228 | place | 2 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-50">50</a> |
+| 229 | possible | 2 | <a href="#/README?id=quote-22">22</a>, <a href="#/README?id=quote-119">119</a> |
+| 230 | every | 2 | <a href="#/README?id=quote-23">23</a>, <a href="#/README?id=quote-160">160</a> |
+| 231 | fail | 2 | <a href="#/README?id=quote-24">24</a>, <a href="#/README?id=quote-27">27</a> |
+| 232 | company | 2 | <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-176">176</a> |
+| 233 | last | 2 | <a href="#/README?id=quote-25">25</a>, <a href="#/README?id=quote-147">147</a> |
+| 234 | break | 2 | <a href="#/README?id=quote-26">26</a>, <a href="#/README?id=quote-149">149</a> |
+| 235 | taking | 2 | <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-27">27</a> |
+| 236 | guaranteed | 2 | <a href="#/README?id=quote-27">27</a>, <a href="#/README?id=quote-116">116</a> |
+| 237 | services | 2 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a> |
+| 238 | money | 2 | <a href="#/README?id=quote-28">28</a>, <a href="#/README?id=quote-28">28</a> |
+| 239 | bad | 2 | <a href="#/README?id=quote-29">29</a>, <a href="#/README?id=quote-124">124</a> |
+| 240 | error | 2 | <a href="#/README?id=quote-32">32</a>, <a href="#/README?id=quote-104">104</a> |
+| 241 | dangerous | 2 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-114">114</a> |
+| 242 | done | 2 | <a href="#/README?id=quote-33">33</a>, <a href="#/README?id=quote-85">85</a> |
+| 243 | learn | 2 | <a href="#/README?id=quote-36">36</a>, <a href="#/README?id=quote-59">59</a> |
+| 244 | soul | 2 | <a href="#/README?id=quote-39">39</a>, <a href="#/README?id=quote-170">170</a> |
+| 245 | art | 2 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a> |
+| 246 | telling | 2 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a> |
+| 247 | wants | 2 | <a href="#/README?id=quote-41">41</a>, <a href="#/README?id=quote-137">137</a> |
+| 248 | prefer | 2 | <a href="#/README?id=quote-45">45</a>, <a href="#/README?id=quote-54">54</a> |
+| 249 | sql | 2 | <a href="#/README?id=quote-46">46</a>, <a href="#/README?id=quote-167">167</a> |
+| 250 | take | 2 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-169">169</a> |
+| 251 | change | 2 | <a href="#/README?id=quote-48">48</a>, <a href="#/README?id=quote-166">166</a> |
+| 252 | might | 2 | <a href="#/README?id=quote-51">51</a>, <a href="#/README?id=quote-143">143</a> |
+| 253 | go | 2 | <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-147">147</a> |
+| 254 | used | 2 | <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-91">91</a> |
+| 255 | cache | 2 | <a href="#/README?id=quote-53">53</a>, <a href="#/README?id=quote-76">76</a> |
+| 256 | hate | 2 | <a href="#/README?id=quote-55">55</a>, <a href="#/README?id=quote-177">177</a> |
+| 257 | now | 2 | <a href="#/README?id=quote-56">56</a>, <a href="#/README?id=quote-70">70</a> |
+| 258 | database | 2 | <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-179">179</a> |
+| 259 | leave | 2 | <a href="#/README?id=quote-58">58</a>, <a href="#/README?id=quote-144">144</a> |
+| 260 | ever | 2 | <a href="#/README?id=quote-59">59</a>, <a href="#/README?id=quote-60">60</a> |
+| 261 | anymore | 2 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-165">165</a> |
+| 262 | living | 2 | <a href="#/README?id=quote-61">61</a>, <a href="#/README?id=quote-94">94</a> |
+| 263 | difficult | 2 | <a href="#/README?id=quote-62">62</a>, <a href="#/README?id=quote-69">69</a> |
+| 264 | future | 2 | <a href="#/README?id=quote-63">63</a>, <a href="#/README?id=quote-138">138</a> |
+| 265 | kinds | 2 | <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-130">130</a> |
+| 266 | uses | 2 | <a href="#/README?id=quote-64">64</a>, <a href="#/README?id=quote-130">130</a> |
+| 267 | trouble | 2 | <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-102">102</a> |
+| 268 | until | 2 | <a href="#/README?id=quote-65">65</a>, <a href="#/README?id=quote-154">154</a> |
+| 269 | today | 2 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-165">165</a> |
+| 270 | engineers | 2 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-155">155</a> |
+| 271 | far | 2 | <a href="#/README?id=quote-67">67</a>, <a href="#/README?id=quote-69">69</a> |
+| 272 | experts | 2 | <a href="#/README?id=quote-68">68</a>, <a href="#/README?id=quote-106">106</a> |
+| 273 | design | 2 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-107">107</a> |
+| 274 | obviously | 2 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-173">173</a> |
+| 275 | deficiencies | 2 | <a href="#/README?id=quote-69">69</a>, <a href="#/README?id=quote-69">69</a> |
+| 276 | using | 2 | <a href="#/README?id=quote-71">71</a>, <a href="#/README?id=quote-119">119</a> |
+| 277 | knows | 2 | <a href="#/README?id=quote-72">72</a>, <a href="#/README?id=quote-152">152</a> |
+| 278 | themselves | 2 | <a href="#/README?id=quote-74">74</a>, <a href="#/README?id=quote-174">174</a> |
+| 279 | yourself | 2 | <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-112">112</a> |
+| 280 | whole | 2 | <a href="#/README?id=quote-75">75</a>, <a href="#/README?id=quote-170">170</a> |
+| 281 | science | 2 | <a href="#/README?id=quote-76">76</a>, <a href="#/README?id=quote-89">89</a> |
+| 282 | both | 2 | <a href="#/README?id=quote-77">77</a>, <a href="#/README?id=quote-101">101</a> |
+| 283 | lot | 2 | <a href="#/README?id=quote-78">78</a>, <a href="#/README?id=quote-170">170</a> |
+| 284 | important | 2 | <a href="#/README?id=quote-81">81</a>, <a href="#/README?id=quote-105">105</a> |
+| 285 | industry | 2 | <a href="#/README?id=quote-83">83</a>, <a href="#/README?id=quote-83">83</a> |
+| 286 | come | 2 | <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-106">106</a> |
+| 287 | believe | 2 | <a href="#/README?id=quote-84">84</a>, <a href="#/README?id=quote-90">90</a> |
+| 288 | meaningful | 2 | <a href="#/README?id=quote-86">86</a>, <a href="#/README?id=quote-110">110</a> |
+| 289 | sometimes | 2 | <a href="#/README?id=quote-87">87</a>, <a href="#/README?id=quote-144">144</a> |
+| 290 | mathematics | 2 | <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-91">91</a> |
+| 291 | life | 2 | <a href="#/README?id=quote-90">90</a>, <a href="#/README?id=quote-108">108</a> |
+| 292 | man | 2 | <a href="#/README?id=quote-91">91</a>, <a href="#/README?id=quote-132">132</a> |
+| 293 | try | 2 | <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-92">92</a> |
+| 294 | models | 2 | <a href="#/README?id=quote-92">92</a>, <a href="#/README?id=quote-136">136</a> |
+| 295 | anyone | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-176">176</a> |
+| 296 | random | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-105">105</a> |
+| 297 | numbers | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-105">105</a> |
+| 298 | means | 2 | <a href="#/README?id=quote-94">94</a>, <a href="#/README?id=quote-178">178</a> |
+| 299 | theory | 2 | <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a> |
+| 300 | practice | 2 | <a href="#/README?id=quote-97">97</a>, <a href="#/README?id=quote-97">97</a> |
+| 301 | measuring | 2 | <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-98">98</a> |
+| 302 | building | 2 | <a href="#/README?id=quote-98">98</a>, <a href="#/README?id=quote-170">170</a> |
+| 303 | accurate | 2 | <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-141">141</a> |
+| 304 | information | 2 | <a href="#/README?id=quote-99">99</a>, <a href="#/README?id=quote-136">136</a> |
+| 305 | accounts | 2 | <a href="#/README?id=quote-100">100</a>, <a href="#/README?id=quote-100">100</a> |
+| 306 | walking | 2 | <a href="#/README?id=quote-101">101</a>, <a href="#/README?id=quote-153">153</a> |
+| 307 | rest | 2 | <a href="#/README?id=quote-108">108</a>, <a href="#/README?id=quote-168">168</a> |
+| 308 | rarely | 2 | <a href="#/README?id=quote-110">110</a>, <a href="#/README?id=quote-159">159</a> |
+| 309 | strongly | 2 | <a href="#/README?id=quote-111">111</a>, <a href="#/README?id=quote-111">111</a> |
+| 310 | comment | 2 | <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-112">112</a> |
+| 311 | ask | 2 | <a href="#/README?id=quote-112">112</a>, <a href="#/README?id=quote-160">160</a> |
+| 312 | off | 2 | <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-131">131</a> |
+| 313 | lead | 2 | <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-153">153</a> |
+| 314 | room | 2 | <a href="#/README?id=quote-117">117</a>, <a href="#/README?id=quote-161">161</a> |
+| 315 | saying | 2 | <a href="#/README?id=quote-118">118</a>, <a href="#/README?id=quote-118">118</a> |
+| 316 | after | 2 | <a href="#/README?id=quote-120">120</a>, <a href="#/README?id=quote-177">177</a> |
+| 317 | car | 2 | <a href="#/README?id=quote-121">121</a>, <a href="#/README?id=quote-145">145</a> |
+| 318 | process | 2 | <a href="#/README?id=quote-122">122</a>, <a href="#/README?id=quote-122">122</a> |
+| 319 | half | 2 | <a href="#/README?id=quote-126">126</a>, <a href="#/README?id=quote-164">164</a> |
+| 320 | artificial | 2 | <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-142">142</a> |
+| 321 | intelligence | 2 | <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-142">142</a> |
+| 322 | match | 2 | <a href="#/README?id=quote-127">127</a>, <a href="#/README?id=quote-146">146</a> |
+| 323 | understanding | 2 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-175">175</a> |
+| 324 | simultaneously | 2 | <a href="#/README?id=quote-128">128</a>, <a href="#/README?id=quote-137">137</a> |
+| 325 | object | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 326 | oriented | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 327 | implicit | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 328 | carry | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 329 | wanted | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 330 | gorilla | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 331 | holding | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 332 | jungle | 2 | <a href="#/README?id=quote-129">129</a>, <a href="#/README?id=quote-171">171</a> |
+| 333 | ones | 2 | <a href="#/README?id=quote-130">130</a>, <a href="#/README?id=quote-130">130</a> |
+| 334 | cryptography | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
+| 335 | mailman | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
+| 336 | mail | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
+| 337 | without | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-162">162</a> |
+| 338 | envelope | 2 | <a href="#/README?id=quote-132">132</a>, <a href="#/README?id=quote-132">132</a> |
+| 339 | detective | 2 | <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
+| 340 | crime | 2 | <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
+| 341 | murderer | 2 | <a href="#/README?id=quote-133">133</a>, <a href="#/README?id=quote-150">150</a> |
+| 342 | management | 2 | <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-167">167</a> |
+| 343 | story | 2 | <a href="#/README?id=quote-134">134</a>, <a href="#/README?id=quote-167">167</a> |
+| 344 | convincing | 2 | <a href="#/README?id=quote-137">137</a>, <a href="#/README?id=quote-146">146</a> |
+| 345 | hole | 2 | <a href="#/README?id=quote-140">140</a>, <a href="#/README?id=quote-144">144</a> |
+| 346 | looking | 2 | <a href="#/README?id=quote-143">143</a>, <a href="#/README?id=quote-157">157</a> |
+| 347 | fly | 2 | <a href="#/README?id=quote-144">144</a>, <a href="#/README?id=quote-144">144</a> |
+| 348 | anything | 2 | <a href="#/README?id=quote-145">145</a>, <a href="#/README?id=quote-154">154</a> |
+| 349 | turing | 2 | <a href="#/README?id=quote-146">146</a>, <a href="#/README?id=quote-163">163</a> |
+| 350 | page | 2 | <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-147">147</a> |
+| 351 | run | 2 | <a href="#/README?id=quote-147">147</a>, <a href="#/README?id=quote-157">157</a> |
+| 352 | juggling | 2 | <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
+| 353 | chainsaws | 2 | <a href="#/README?id=quote-148">148</a>, <a href="#/README?id=quote-153">153</a> |
+| 354 | let | 2 | <a href="#/README?id=quote-149">149</a>, <a href="#/README?id=quote-154">154</a> |
+| 355 | over | 2 | <a href="#/README?id=quote-153">153</a>, <a href="#/README?id=quote-155">155</a> |
+| 356 | except | 2 | <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-156">156</a> |
+| 357 | wearing | 2 | <a href="#/README?id=quote-155">155</a>, <a href="#/README?id=quote-163">163</a> |
+| 358 | digital | 2 | <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-164">164</a> |
+| 359 | potato | 2 | <a href="#/README?id=quote-156">156</a>, <a href="#/README?id=quote-156">156</a> |
+| 360 | imagine | 2 | <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-166">166</a> |
+| 361 | been | 2 | <a href="#/README?id=quote-165">165</a>, <a href="#/README?id=quote-173">173</a> |
+| 362 | large | 2 | <a href="#/README?id=quote-168">168</a>, <a href="#/README?id=quote-176">176</a> |
+| 363 | privacy | 2 | <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
+| 364 | security | 2 | <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
+| 365 | care | 2 | <a href="#/README?id=quote-169">169</a>, <a href="#/README?id=quote-169">169</a> |
+| 366 | value | 2 | <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-176">176</a> |
+| 367 | outside | 2 | <a href="#/README?id=quote-170">170</a>, <a href="#/README?id=quote-170">170</a> |
+| 368 | love | 2 | <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a> |
+| 369 | vim | 2 | <a href="#/README?id=quote-177">177</a>, <a href="#/README?id=quote-177">177</a> |
+| 370 | bill | 1 | <a href="#/README?id=quote-1">1</a> |
+| 371 | famous | 1 | <a href="#/README?id=quote-1">1</a> |
+| 372 | nvidia | 1 | <a href="#/README?id=quote-2">2</a> |
+| 373 | fuck | 1 | <a href="#/README?id=quote-2">2</a> |
+| 374 | absolutely | 1 | <a href="#/README?id=quote-3">3</a> |
+| 375 | original | 1 | <a href="#/README?id=quote-3">3</a> |
+| 376 | ideas | 1 | <a href="#/README?id=quote-3">3</a> |
+| 377 | bring | 1 | <a href="#/README?id=quote-3">3</a> |
+| 378 | culture | 1 | <a href="#/README?id=quote-3">3</a> |
+| 379 | foolish | 1 | <a href="#/README?id=quote-4">4</a> |
+| 380 | songs | 1 | <a href="#/README?id=quote-5">5</a> |
+| 381 | pocket | 1 | <a href="#/README?id=quote-5">5</a> |
+| 382 | apple | 1 | <a href="#/README?id=quote-8">8</a> |
+| 383 | keeps | 1 | <a href="#/README?id=quote-8">8</a> |
+| 384 | doctor | 1 | <a href="#/README?id=quote-8">8</a> |
+| 385 | distortion | 1 | <a href="#/README?id=quote-9">9</a> |
+| 386 | field | 1 | <a href="#/README?id=quote-9">9</a> |
+| 387 | ought | 1 | <a href="#/README?id=quote-10">10</a> |
+| 388 | anybody | 1 | <a href="#/README?id=quote-10">10</a> |
+| 389 | nice | 1 | <a href="#/README?id=quote-11">11</a> |
+| 390 | nerds | 1 | <a href="#/README?id=quote-11">11</a> |
+| 391 | chances | 1 | <a href="#/README?id=quote-11">11</a> |
+| 392 | find | 1 | <a href="#/README?id=quote-12">12</a> |
+| 393 | unhappy | 1 | <a href="#/README?id=quote-13">13</a> |
+| 394 | greatest | 1 | <a href="#/README?id=quote-13">13</a> |
+| 395 | source | 1 | <a href="#/README?id=quote-13">13</a> |
+| 396 | lousy | 1 | <a href="#/README?id=quote-14">14</a> |
+| 397 | teacher | 1 | <a href="#/README?id=quote-14">14</a> |
+| 398 | seduces | 1 | <a href="#/README?id=quote-14">14</a> |
+| 399 | lose | 1 | <a href="#/README?id=quote-14">14</a> |
+| 400 | least | 1 | <a href="#/README?id=quote-15">15</a> |
+| 401 | premature | 1 | <a href="#/README?id=quote-16">16</a> |
+| 402 | optimization | 1 | <a href="#/README?id=quote-16">16</a> |
+| 403 | root | 1 | <a href="#/README?id=quote-16">16</a> |
+| 404 | evil | 1 | <a href="#/README?id=quote-16">16</a> |
+| 405 | types | 1 | <a href="#/README?id=quote-17">17</a> |
+| 406 | binary | 1 | <a href="#/README?id=quote-17">17</a> |
+| 407 | written | 1 | <a href="#/README?id=quote-18">18</a> |
+| 408 | incidentally | 1 | <a href="#/README?id=quote-18">18</a> |
+| 409 | execute | 1 | <a href="#/README?id=quote-18">18</a> |
+| 410 | sufficiently | 1 | <a href="#/README?id=quote-20">20</a> |
+| 411 | advanced | 1 | <a href="#/README?id=quote-20">20</a> |
+| 412 | technology | 1 | <a href="#/README?id=quote-20">20</a> |
+| 413 | indistinguishable | 1 | <a href="#/README?id=quote-20">20</a> |
+| 414 | magic | 1 | <a href="#/README?id=quote-20">20</a> |
+| 415 | talk | 1 | <a href="#/README?id=quote-21">21</a> |
+| 416 | me | 1 | <a href="#/README?id=quote-21">21</a> |
+| 417 | twice | 1 | <a href="#/README?id=quote-22">22</a> |
+| 418 | therefore | 1 | <a href="#/README?id=quote-22">22</a> |
+| 419 | cleverly | 1 | <a href="#/README?id=quote-22">22</a> |
+| 420 | definition | 1 | <a href="#/README?id=quote-22">22</a> |
+| 421 | debug | 1 | <a href="#/README?id=quote-22">22</a> |
+| 422 | willing | 1 | <a href="#/README?id=quote-24">24</a> |
+| 423 | innovate | 1 | <a href="#/README?id=quote-24">24</a> |
+| 424 | focus | 1 | <a href="#/README?id=quote-25">25</a> |
+| 425 | long | 1 | <a href="#/README?id=quote-25">25</a> |
+| 426 | move | 1 | <a href="#/README?id=quote-26">26</a> |
+| 427 | biggest | 1 | <a href="#/README?id=quote-27">27</a> |
+| 428 | changing | 1 | <a href="#/README?id=quote-27">27</a> |
+| 429 | quickly | 1 | <a href="#/README?id=quote-27">27</a> |
+| 430 | strategy | 1 | <a href="#/README?id=quote-27">27</a> |
+| 431 | risks | 1 | <a href="#/README?id=quote-27">27</a> |
+| 432 | humor | 1 | <a href="#/README?id=quote-29">29</a> |
+| 433 | experience | 1 | <a href="#/README?id=quote-31">31</a> |
+| 434 | name | 1 | <a href="#/README?id=quote-31">31</a> |
+| 435 | gives | 1 | <a href="#/README?id=quote-31">31</a> |
+| 436 | mistakes | 1 | <a href="#/README?id=quote-31">31</a> |
+| 437 | message | 1 | <a href="#/README?id=quote-32">32</a> |
+| 438 | shows | 1 | <a href="#/README?id=quote-32">32</a> |
+| 439 | phrase | 1 | <a href="#/README?id=quote-33">33</a> |
+| 440 | weeks | 1 | <a href="#/README?id=quote-34">34</a> |
+| 441 | coding | 1 | <a href="#/README?id=quote-34">34</a> |
+| 442 | hours | 1 | <a href="#/README?id=quote-34">34</a> |
+| 443 | planning | 1 | <a href="#/README?id=quote-34">34</a> |
+| 444 | cathedrals | 1 | <a href="#/README?id=quote-37">37</a> |
+| 445 | pray | 1 | <a href="#/README?id=quote-37">37</a> |
+| 446 | bug | 1 | <a href="#/README?id=quote-38">38</a> |
+| 447 | undocumented | 1 | <a href="#/README?id=quote-38">38</a> |
+| 448 | feature | 1 | <a href="#/README?id=quote-38">38</a> |
+| 449 | efficiency | 1 | <a href="#/README?id=quote-39">39</a> |
+| 450 | reusable | 1 | <a href="#/README?id=quote-40">40</a> |
+| 451 | usable | 1 | <a href="#/README?id=quote-40">40</a> |
+| 452 | fool | 1 | <a href="#/README?id=quote-42">42</a> |
+| 453 | humans | 1 | <a href="#/README?id=quote-42">42</a> |
+| 454 | function | 1 | <a href="#/README?id=quote-43">43</a> |
+| 455 | complex | 1 | <a href="#/README?id=quote-43">43</a> |
+| 456 | appear | 1 | <a href="#/README?id=quote-43">43</a> |
+| 457 | born | 1 | <a href="#/README?id=quote-44">44</a> |
+| 458 | exist | 1 | <a href="#/README?id=quote-44">44</a> |
+| 459 | dark | 1 | <a href="#/README?id=quote-45">45</a> |
+| 460 | mode | 1 | <a href="#/README?id=quote-45">45</a> |
+| 461 | attracts | 1 | <a href="#/README?id=quote-45">45</a> |
+| 462 | query | 1 | <a href="#/README?id=quote-46">46</a> |
+| 463 | goes | 1 | <a href="#/README?id=quote-46">46</a> |
+| 464 | bar | 1 | <a href="#/README?id=quote-46">46</a> |
+| 465 | walks | 1 | <a href="#/README?id=quote-46">46</a> |
+| 466 | tables | 1 | <a href="#/README?id=quote-46">46</a> |
+| 467 | asks | 1 | <a href="#/README?id=quote-46">46</a> |
+| 468 | join | 1 | <a href="#/README?id=quote-46">46</a> |
+| 469 | quit | 1 | <a href="#/README?id=quote-47">47</a> |
+| 470 | didn | 1 | <a href="#/README?id=quote-47">47</a> |
+| 471 | arrays | 1 | <a href="#/README?id=quote-47">47</a> |
+| 472 | bulb | 1 | <a href="#/README?id=quote-48">48</a> |
+| 473 | none | 1 | <a href="#/README?id=quote-48">48</a> |
+| 474 | developers | 1 | <a href="#/README?id=quote-49">49</a> |
+| 475 | wear | 1 | <a href="#/README?id=quote-49">49</a> |
+| 476 | glasses | 1 | <a href="#/README?id=quote-49">49</a> |
+| 477 | udp | 1 | <a href="#/README?id=quote-51">51</a> |
+| 478 | joke | 1 | <a href="#/README?id=quote-51">51</a> |
+| 479 | mix | 1 | <a href="#/README?id=quote-52">52</a> |
+| 480 | halloween | 1 | <a href="#/README?id=quote-52">52</a> |
+| 481 | christmas | 1 | <a href="#/README?id=quote-52">52</a> |
+| 482 | oct | 1 | <a href="#/README?id=quote-52">52</a> |
+| 483 | dec | 1 | <a href="#/README?id=quote-52">52</a> |
+| 484 | developer | 1 | <a href="#/README?id=quote-53">53</a> |
+| 485 | broke | 1 | <a href="#/README?id=quote-53">53</a> |
+| 486 | ios | 1 | <a href="#/README?id=quote-54">54</a> |
+| 487 | swift | 1 | <a href="#/README?id=quote-54">54</a> |
+| 488 | mightier | 1 | <a href="#/README?id=quote-54">54</a> |
+| 489 | kotlin | 1 | <a href="#/README?id=quote-54">54</a> |
+| 490 | nature | 1 | <a href="#/README?id=quote-55">55</a> |
+| 491 | decided | 1 | <a href="#/README?id=quote-56">56</a> |
+| 492 | problemfactory | 1 | <a href="#/README?id=quote-56">56</a> |
+| 493 | functions | 1 | <a href="#/README?id=quote-57">57</a> |
+| 494 | stop | 1 | <a href="#/README?id=quote-57">57</a> |
+| 495 | calling | 1 | <a href="#/README?id=quote-57">57</a> |
+| 496 | each | 1 | <a href="#/README?id=quote-57">57</a> |
+| 497 | constant | 1 | <a href="#/README?id=quote-57">57</a> |
+| 498 | arguments | 1 | <a href="#/README?id=quote-57">57</a> |
+| 499 | administrator | 1 | <a href="#/README?id=quote-58">58</a> |
+| 500 | wife | 1 | <a href="#/README?id=quote-58">58</a> |
+| 501 | she | 1 | <a href="#/README?id=quote-58">58</a> |
+| 502 | relationships | 1 | <a href="#/README?id=quote-58">58</a> |
+| 503 | disastrous | 1 | <a href="#/README?id=quote-59">59</a> |
+| 504 | built | 1 | <a href="#/README?id=quote-60">60</a> |
+| 505 | largest | 1 | <a href="#/README?id=quote-60">60</a> |
+| 506 | experiment | 1 | <a href="#/README?id=quote-60">60</a> |
+| 507 | anarchy | 1 | <a href="#/README?id=quote-60">60</a> |
+| 508 | entropy | 1 | <a href="#/README?id=quote-62">62</a> |
+| 509 | grasp | 1 | <a href="#/README?id=quote-62">62</a> |
+| 510 | weighs | 1 | <a href="#/README?id=quote-62">62</a> |
+| 511 | obeys | 1 | <a href="#/README?id=quote-62">62</a> |
+| 512 | second | 1 | <a href="#/README?id=quote-62">62</a> |
+| 513 | law | 1 | <a href="#/README?id=quote-62">62</a> |
+| 514 | thermodynamics | 1 | <a href="#/README?id=quote-62">62</a> |
+| 515 | increases | 1 | <a href="#/README?id=quote-62">62</a> |
+| 516 | predict | 1 | <a href="#/README?id=quote-63">63</a> |
+| 517 | invent | 1 | <a href="#/README?id=quote-63">63</a> |
+| 518 | bitch | 1 | <a href="#/README?id=quote-64">64</a> |
+| 519 | late | 1 | <a href="#/README?id=quote-65">65</a> |
+| 520 | performance | 1 | <a href="#/README?id=quote-66">66</a> |
+| 521 | improvement | 1 | <a href="#/README?id=quote-66">66</a> |
+| 522 | transition | 1 | <a href="#/README?id=quote-66">66</a> |
+| 523 | nonworking | 1 | <a href="#/README?id=quote-66">66</a> |
+| 524 | race | 1 | <a href="#/README?id=quote-67">67</a> |
+| 525 | striving | 1 | <a href="#/README?id=quote-67">67</a> |
+| 526 | idiot | 1 | <a href="#/README?id=quote-67">67</a> |
+| 527 | proof | 1 | <a href="#/README?id=quote-67">67</a> |
+| 528 | produce | 1 | <a href="#/README?id=quote-67">67</a> |
+| 529 | idiots | 1 | <a href="#/README?id=quote-67">67</a> |
+| 530 | winning | 1 | <a href="#/README?id=quote-67">67</a> |
+| 531 | novices | 1 | <a href="#/README?id=quote-68">68</a> |
+| 532 | insert | 1 | <a href="#/README?id=quote-68">68</a> |
+| 533 | corrective | 1 | <a href="#/README?id=quote-68">68</a> |
+| 534 | remove | 1 | <a href="#/README?id=quote-68">68</a> |
+| 535 | defective | 1 | <a href="#/README?id=quote-68">68</a> |
+| 536 | constructing | 1 | <a href="#/README?id=quote-69">69</a> |
+| 537 | obvious | 1 | <a href="#/README?id=quote-69">69</a> |
+| 538 | method | 1 | <a href="#/README?id=quote-69">69</a> |
+| 539 | some | 1 | <a href="#/README?id=quote-70">70</a> |
+| 540 | confronted | 1 | <a href="#/README?id=quote-70">70</a> |
+| 541 | regular | 1 | <a href="#/README?id=quote-70">70</a> |
+| 542 | expressions | 1 | <a href="#/README?id=quote-70">70</a> |
+| 543 | xml | 1 | <a href="#/README?id=quote-71">71</a> |
+| 544 | violence | 1 | <a href="#/README?id=quote-71">71</a> |
+| 545 | guy | 1 | <a href="#/README?id=quote-72">72</a> |
+| 546 | ends | 1 | <a href="#/README?id=quote-72">72</a> |
+| 547 | maintaining | 1 | <a href="#/README?id=quote-72">72</a> |
+| 548 | violent | 1 | <a href="#/README?id=quote-72">72</a> |
+| 549 | psychopath | 1 | <a href="#/README?id=quote-72">72</a> |
+| 550 | live | 1 | <a href="#/README?id=quote-72">72</a> |
+| 551 | named | 1 | <a href="#/README?id=quote-73">73</a> |
+| 552 | net | 1 | <a href="#/README?id=quote-73">73</a> |
+| 553 | wouldn | 1 | <a href="#/README?id=quote-73">73</a> |
+| 554 | directory | 1 | <a href="#/README?id=quote-73">73</a> |
+| 555 | listing | 1 | <a href="#/README?id=quote-73">73</a> |
+| 556 | true | 1 | <a href="#/README?id=quote-74">74</a> |
+| 557 | garbage | 1 | <a href="#/README?id=quote-74">74</a> |
+| 558 | collection | 1 | <a href="#/README?id=quote-74">74</a> |
+| 559 | delete | 1 | <a href="#/README?id=quote-74">74</a> |
+| 560 | upon | 1 | <a href="#/README?id=quote-74">74</a> |
+| 561 | execution | 1 | <a href="#/README?id=quote-74">74</a> |
+| 562 | shoot | 1 | <a href="#/README?id=quote-75">75</a> |
+| 563 | foot | 1 | <a href="#/README?id=quote-75">75</a> |
+| 564 | harder | 1 | <a href="#/README?id=quote-75">75</a> |
+| 565 | blows | 1 | <a href="#/README?id=quote-75">75</a> |
+| 566 | leg | 1 | <a href="#/README?id=quote-75">75</a> |
+| 567 | invalidation | 1 | <a href="#/README?id=quote-76">76</a> |
+| 568 | naming | 1 | <a href="#/README?id=quote-76">76</a> |
+| 569 | crossing | 1 | <a href="#/README?id=quote-77">77</a> |
+| 570 | street | 1 | <a href="#/README?id=quote-77">77</a> |
+| 571 | bikinis | 1 | <a href="#/README?id=quote-78">78</a> |
+| 572 | guesswork | 1 | <a href="#/README?id=quote-78">78</a> |
+| 573 | takes | 1 | <a href="#/README?id=quote-79">79</a> |
+| 574 | genius | 1 | <a href="#/README?id=quote-79">79</a> |
+| 575 | parts | 1 | <a href="#/README?id=quote-80">80</a> |
+| 576 | kicked | 1 | <a href="#/README?id=quote-80">80</a> |
+| 577 | property | 1 | <a href="#/README?id=quote-81">81</a> |
+| 578 | accomplishes | 1 | <a href="#/README?id=quote-81">81</a> |
+| 579 | intention | 1 | <a href="#/README?id=quote-81">81</a> |
+| 580 | user | 1 | <a href="#/README?id=quote-81">81</a> |
+| 581 | interested | 1 | <a href="#/README?id=quote-82">82</a> |
+| 582 | amazing | 1 | <a href="#/README?id=quote-83">83</a> |
+| 583 | achievement | 1 | <a href="#/README?id=quote-83">83</a> |
+| 584 | continuing | 1 | <a href="#/README?id=quote-83">83</a> |
+| 585 | cancellation | 1 | <a href="#/README?id=quote-83">83</a> |
+| 586 | steady | 1 | <a href="#/README?id=quote-83">83</a> |
+| 587 | staggering | 1 | <a href="#/README?id=quote-83">83</a> |
+| 588 | gains | 1 | <a href="#/README?id=quote-83">83</a> |
+| 589 | major | 1 | <a href="#/README?id=quote-84">84</a> |
+| 590 | berkeley | 1 | <a href="#/README?id=quote-84">84</a> |
+| 591 | lsd | 1 | <a href="#/README?id=quote-84">84</a> |
+| 592 | coincidence | 1 | <a href="#/README?id=quote-84">84</a> |
+| 593 | short | 1 | <a href="#/README?id=quote-85">85</a> |
+| 594 | distance | 1 | <a href="#/README?id=quote-85">85</a> |
+| 595 | ahead | 1 | <a href="#/README?id=quote-85">85</a> |
+| 596 | plenty | 1 | <a href="#/README?id=quote-85">85</a> |
+| 597 | needs | 1 | <a href="#/README?id=quote-85">85</a> |
+| 598 | question | 1 | <a href="#/README?id=quote-86">86</a> |
+| 599 | answered | 1 | <a href="#/README?id=quote-86">86</a> |
+| 600 | century | 1 | <a href="#/README?id=quote-86">86</a> |
+| 601 | silly | 1 | <a href="#/README?id=quote-87">87</a> |
+| 602 | expected | 1 | <a href="#/README?id=quote-88">88</a> |
+| 603 | infallible | 1 | <a href="#/README?id=quote-88">88</a> |
+| 604 | cannot | 1 | <a href="#/README?id=quote-88">88</a> |
+| 605 | intelligent | 1 | <a href="#/README?id=quote-88">88</a> |
+| 606 | differential | 1 | <a href="#/README?id=quote-89">89</a> |
+| 607 | equation | 1 | <a href="#/README?id=quote-89">89</a> |
+| 608 | religion | 1 | <a href="#/README?id=quote-89">89</a> |
+| 609 | boundary | 1 | <a href="#/README?id=quote-89">89</a> |
+| 610 | condition | 1 | <a href="#/README?id=quote-89">89</a> |
+| 611 | realize | 1 | <a href="#/README?id=quote-90">90</a> |
+| 612 | young | 1 | <a href="#/README?id=quote-91">91</a> |
+| 613 | sciences | 1 | <a href="#/README?id=quote-92">92</a> |
+| 614 | hardly | 1 | <a href="#/README?id=quote-92">92</a> |
+| 615 | interpret | 1 | <a href="#/README?id=quote-92">92</a> |
+| 616 | mainly | 1 | <a href="#/README?id=quote-92">92</a> |
+| 617 | precise | 1 | <a href="#/README?id=quote-93">93</a> |
+| 618 | talking | 1 | <a href="#/README?id=quote-93">93</a> |
+| 619 | attempts | 1 | <a href="#/README?id=quote-94">94</a> |
+| 620 | generate | 1 | <a href="#/README?id=quote-94">94</a> |
+| 621 | deterministic | 1 | <a href="#/README?id=quote-94">94</a> |
+| 622 | course | 1 | <a href="#/README?id=quote-94">94</a> |
+| 623 | sin | 1 | <a href="#/README?id=quote-94">94</a> |
+| 624 | ultimate | 1 | <a href="#/README?id=quote-95">95</a> |
+| 625 | sophistication | 1 | <a href="#/README?id=quote-95">95</a> |
+| 626 | slow | 1 | <a href="#/README?id=quote-96">96</a> |
+| 627 | difference | 1 | <a href="#/README?id=quote-97">97</a> |
+| 628 | lines | 1 | <a href="#/README?id=quote-98">98</a> |
+| 629 | aircraft | 1 | <a href="#/README?id=quote-98">98</a> |
+| 630 | weight | 1 | <a href="#/README?id=quote-98">98</a> |
+| 631 | usenet | 1 | <a href="#/README?id=quote-99">99</a> |
+| 632 | post | 1 | <a href="#/README?id=quote-99">99</a> |
+| 633 | something | 1 | <a href="#/README?id=quote-99">99</a> |
+| 634 | wait | 1 | <a href="#/README?id=quote-99">99</a> |
+| 635 | corrections | 1 | <a href="#/README?id=quote-99">99</a> |
+| 636 | remaining | 1 | <a href="#/README?id=quote-100">100</a> |
+| 637 | water | 1 | <a href="#/README?id=quote-101">101</a> |
+| 638 | developing | 1 | <a href="#/README?id=quote-101">101</a> |
+| 639 | specification | 1 | <a href="#/README?id=quote-101">101</a> |
+| 640 | frozen | 1 | <a href="#/README?id=quote-101">101</a> |
+| 641 | troubleshooting | 1 | <a href="#/README?id=quote-102">102</a> |
+| 642 | shoots | 1 | <a href="#/README?id=quote-102">102</a> |
+| 643 | err | 1 | <a href="#/README?id=quote-103">103</a> |
+| 644 | foul | 1 | <a href="#/README?id=quote-103">103</a> |
+| 645 | need | 1 | <a href="#/README?id=quote-103">103</a> |
+| 646 | free | 1 | <a href="#/README?id=quote-104">104</a> |
+| 647 | third | 1 | <a href="#/README?id=quote-104">104</a> |
+| 648 | generation | 1 | <a href="#/README?id=quote-105">105</a> |
+| 649 | left | 1 | <a href="#/README?id=quote-105">105</a> |
+| 650 | chance | 1 | <a href="#/README?id=quote-105">105</a> |
+| 651 | likely | 1 | <a href="#/README?id=quote-106">106</a> |
+| 652 | destroyed | 1 | <a href="#/README?id=quote-106">106</a> |
+| 653 | agree | 1 | <a href="#/README?id=quote-106">106</a> |
+| 654 | accident | 1 | <a href="#/README?id=quote-106">106</a> |
+| 655 | professionals | 1 | <a href="#/README?id=quote-106">106</a> |
+| 656 | cause | 1 | <a href="#/README?id=quote-106">106</a> |
+| 657 | accidents | 1 | <a href="#/README?id=quote-106">106</a> |
+| 658 | hardest | 1 | <a href="#/README?id=quote-107">107</a> |
+| 659 | part | 1 | <a href="#/README?id=quote-107">107</a> |
+| 660 | keeping | 1 | <a href="#/README?id=quote-107">107</a> |
+| 661 | features | 1 | <a href="#/README?id=quote-107">107</a> |
+| 662 | support | 1 | <a href="#/README?id=quote-108">108</a> |
+| 663 | purpose | 1 | <a href="#/README?id=quote-109">109</a> |
+| 664 | engineering | 1 | <a href="#/README?id=quote-109">109</a> |
+| 665 | control | 1 | <a href="#/README?id=quote-109">109</a> |
+| 666 | complexity | 1 | <a href="#/README?id=quote-109">109</a> |
+| 667 | create | 1 | <a href="#/README?id=quote-109">109</a> |
+| 668 | requirements | 1 | <a href="#/README?id=quote-110">110</a> |
+| 669 | measure | 1 | <a href="#/README?id=quote-110">110</a> |
+| 670 | matters | 1 | <a href="#/README?id=quote-110">110</a> |
+| 671 | solution | 1 | <a href="#/README?id=quote-110">110</a> |
+| 672 | solves | 1 | <a href="#/README?id=quote-110">110</a> |
+| 673 | customer | 1 | <a href="#/README?id=quote-110">110</a> |
+| 674 | shifting | 1 | <a href="#/README?id=quote-110">110</a> |
+| 675 | evolution | 1 | <a href="#/README?id=quote-111">111</a> |
+| 676 | fortran | 1 | <a href="#/README?id=quote-111">111</a> |
+| 677 | non | 1 | <a href="#/README?id=quote-111">111</a> |
+| 678 | weakly | 1 | <a href="#/README?id=quote-111">111</a> |
+| 679 | ada | 1 | <a href="#/README?id=quote-111">111</a> |
+| 680 | hyped | 1 | <a href="#/README?id=quote-111">111</a> |
+| 681 | add | 1 | <a href="#/README?id=quote-112">112</a> |
+| 682 | improve | 1 | <a href="#/README?id=quote-112">112</a> |
+| 683 | isn | 1 | <a href="#/README?id=quote-112">112</a> |
+| 684 | needed | 1 | <a href="#/README?id=quote-112">112</a> |
+| 685 | low | 1 | <a href="#/README?id=quote-113">113</a> |
+| 686 | level | 1 | <a href="#/README?id=quote-113">113</a> |
+| 687 | require | 1 | <a href="#/README?id=quote-113">113</a> |
+| 688 | attention | 1 | <a href="#/README?id=quote-113">113</a> |
+| 689 | irrelevant | 1 | <a href="#/README?id=quote-113">113</a> |
+| 690 | thought | 1 | <a href="#/README?id=quote-114">114</a> |
+| 691 | creative | 1 | <a href="#/README?id=quote-114">114</a> |
+| 692 | trick | 1 | <a href="#/README?id=quote-115">115</a> |
+| 693 | fix | 1 | <a href="#/README?id=quote-115">115</a> |
+| 694 | rather | 1 | <a href="#/README?id=quote-115">115</a> |
+| 695 | distributed | 1 | <a href="#/README?id=quote-116">116</a> |
+| 696 | systems | 1 | <a href="#/README?id=quote-116">116</a> |
+| 697 | order | 1 | <a href="#/README?id=quote-116">116</a> |
+| 698 | messages | 1 | <a href="#/README?id=quote-116">116</a> |
+| 699 | truly | 1 | <a href="#/README?id=quote-117">117</a> |
+| 700 | secure | 1 | <a href="#/README?id=quote-117">117</a> |
+| 701 | powered | 1 | <a href="#/README?id=quote-117">117</a> |
+| 702 | cast | 1 | <a href="#/README?id=quote-117">117</a> |
+| 703 | block | 1 | <a href="#/README?id=quote-117">117</a> |
+| 704 | concrete | 1 | <a href="#/README?id=quote-117">117</a> |
+| 705 | sealed | 1 | <a href="#/README?id=quote-117">117</a> |
+| 706 | lined | 1 | <a href="#/README?id=quote-117">117</a> |
+| 707 | armed | 1 | <a href="#/README?id=quote-117">117</a> |
+| 708 | guards | 1 | <a href="#/README?id=quote-117">117</a> |
+| 709 | platforms | 1 | <a href="#/README?id=quote-118">118</a> |
+| 710 | anal | 1 | <a href="#/README?id=quote-118">118</a> |
+| 711 | genders | 1 | <a href="#/README?id=quote-118">118</a> |
+| 712 | cobol | 1 | <a href="#/README?id=quote-119">119</a> |
+| 713 | sailing | 1 | <a href="#/README?id=quote-119">119</a> |
+| 714 | atlantic | 1 | <a href="#/README?id=quote-119">119</a> |
+| 715 | bathtub | 1 | <a href="#/README?id=quote-119">119</a> |
+| 716 | perl | 1 | <a href="#/README?id=quote-120">120</a> |
+| 717 | rsa | 1 | <a href="#/README?id=quote-120">120</a> |
+| 718 | encryption | 1 | <a href="#/README?id=quote-120">120</a> |
+| 719 | javascript | 1 | <a href="#/README?id=quote-121">121</a> |
+| 720 | carpet | 1 | <a href="#/README?id=quote-121">121</a> |
+| 721 | removing | 1 | <a href="#/README?id=quote-122">122</a> |
+| 722 | putting | 1 | <a href="#/README?id=quote-122">122</a> |
+| 723 | inherit | 1 | <a href="#/README?id=quote-123">123</a> |
+| 724 | useless | 1 | <a href="#/README?id=quote-125">125</a> |
+| 725 | give | 1 | <a href="#/README?id=quote-125">125</a> |
+| 726 | answers | 1 | <a href="#/README?id=quote-125">125</a> |
+| 727 | comes | 1 | <a href="#/README?id=quote-126">126</a> |
+| 728 | either | 1 | <a href="#/README?id=quote-126">126</a> |
+| 729 | such | 1 | <a href="#/README?id=quote-126">126</a> |
+| 730 | reuse | 1 | <a href="#/README?id=quote-126">126</a> |
+| 731 | natural | 1 | <a href="#/README?id=quote-127">127</a> |
+| 732 | stupidity | 1 | <a href="#/README?id=quote-127">127</a> |
+| 733 | superposition | 1 | <a href="#/README?id=quote-128">128</a> |
+| 734 | confusion | 1 | <a href="#/README?id=quote-128">128</a> |
+| 735 | complain | 1 | <a href="#/README?id=quote-130">130</a> |
+| 736 | boolean | 1 | <a href="#/README?id=quote-131">131</a> |
+| 737 | bit | 1 | <a href="#/README?id=quote-131">131</a> |
+| 738 | middle | 1 | <a href="#/README?id=quote-132">132</a> |
+| 739 | attack | 1 | <a href="#/README?id=quote-132">132</a> |
+| 740 | reading | 1 | <a href="#/README?id=quote-132">132</a> |
+| 741 | opening | 1 | <a href="#/README?id=quote-132">132</a> |
+| 742 | explodes | 1 | <a href="#/README?id=quote-132">132</a> |
+| 743 | tries | 1 | <a href="#/README?id=quote-132">132</a> |
+| 744 | movie | 1 | <a href="#/README?id=quote-133">133</a> |
+| 745 | git | 1 | <a href="#/README?id=quote-134">134</a> |
+| 746 | timeline | 1 | <a href="#/README?id=quote-134">134</a> |
+| 747 | utility | 1 | <a href="#/README?id=quote-134">134</a> |
+| 748 | adventure | 1 | <a href="#/README?id=quote-134">134</a> |
+| 749 | hundreds | 1 | <a href="#/README?id=quote-134">134</a> |
+| 750 | highly | 1 | <a href="#/README?id=quote-135">135</a> |
+| 751 | inefficient | 1 | <a href="#/README?id=quote-135">135</a> |
+| 752 | spreadsheet | 1 | <a href="#/README?id=quote-135">135</a> |
+| 753 | apparently | 1 | <a href="#/README?id=quote-135">135</a> |
+| 754 | revolutionary | 1 | <a href="#/README?id=quote-135">135</a> |
+| 755 | cats | 1 | <a href="#/README?id=quote-136">136</a> |
+| 756 | update | 1 | <a href="#/README?id=quote-136">136</a> |
+| 757 | worldview | 1 | <a href="#/README?id=quote-136">136</a> |
+| 758 | incorporate | 1 | <a href="#/README?id=quote-136">136</a> |
+| 759 | meant | 1 | <a href="#/README?id=quote-137">137</a> |
+| 760 | weigh | 1 | <a href="#/README?id=quote-138">138</a> |
+| 761 | tons | 1 | <a href="#/README?id=quote-138">138</a> |
+| 762 | mechanical | 1 | <a href="#/README?id=quote-139">139</a> |
+| 763 | monkey | 1 | <a href="#/README?id=quote-139">139</a> |
+| 764 | shotgun | 1 | <a href="#/README?id=quote-139">139</a> |
+| 765 | programmed | 1 | <a href="#/README?id=quote-139">139</a> |
+| 766 | desired | 1 | <a href="#/README?id=quote-139">139</a> |
+| 767 | black | 1 | <a href="#/README?id=quote-140">140</a> |
+| 768 | strong | 1 | <a href="#/README?id=quote-140">140</a> |
+| 769 | gravitational | 1 | <a href="#/README?id=quote-140">140</a> |
+| 770 | pull | 1 | <a href="#/README?id=quote-140">140</a> |
+| 771 | productivity | 1 | <a href="#/README?id=quote-140">140</a> |
+| 772 | close | 1 | <a href="#/README?id=quote-140">140</a> |
+| 773 | escape | 1 | <a href="#/README?id=quote-140">140</a> |
+| 774 | traditional | 1 | <a href="#/README?id=quote-141">141</a> |
+| 775 | mechanics | 1 | <a href="#/README?id=quote-141">141</a> |
+| 776 | classical | 1 | <a href="#/README?id=quote-141">141</a> |
+| 777 | physics | 1 | <a href="#/README?id=quote-141">141</a> |
+| 778 | less | 1 | <a href="#/README?id=quote-141">141</a> |
+| 779 | intuitive | 1 | <a href="#/README?id=quote-141">141</a> |
+| 780 | yet | 1 | <a href="#/README?id=quote-141">141</a> |
+| 781 | somehow | 1 | <a href="#/README?id=quote-141">141</a> |
+| 782 | rorschach | 1 | <a href="#/README?id=quote-142">142</a> |
+| 783 | sees | 1 | <a href="#/README?id=quote-142">142</a> |
+| 784 | salvation | 1 | <a href="#/README?id=quote-142">142</a> |
+| 785 | harbinger | 1 | <a href="#/README?id=quote-142">142</a> |
+| 786 | doom | 1 | <a href="#/README?id=quote-142">142</a> |
+| 787 | cloud | 1 | <a href="#/README?id=quote-143">143</a> |
+| 788 | added | 1 | <a href="#/README?id=quote-143">143</a> |
+| 789 | excitement | 1 | <a href="#/README?id=quote-143">143</a> |
+| 790 | knowing | 1 | <a href="#/README?id=quote-143">143</a> |
+| 791 | technological | 1 | <a href="#/README?id=quote-144">144</a> |
+| 792 | equivalent | 1 | <a href="#/README?id=quote-144">144</a> |
+| 793 | kill | 1 | <a href="#/README?id=quote-144">144</a> |
+| 794 | sledgehammer | 1 | <a href="#/README?id=quote-144">144</a> |
+| 795 | hit | 1 | <a href="#/README?id=quote-144">144</a> |
+| 796 | table | 1 | <a href="#/README?id=quote-144">144</a> |
+| 797 | agile | 1 | <a href="#/README?id=quote-145">145</a> |
+| 798 | driving | 1 | <a href="#/README?id=quote-145">145</a> |
+| 799 | potentially | 1 | <a href="#/README?id=quote-145">145</a> |
+| 800 | faster | 1 | <a href="#/README?id=quote-145">145</a> |
+| 801 | ending | 1 | <a href="#/README?id=quote-145">145</a> |
+| 802 | three | 1 | <a href="#/README?id=quote-145">145</a> |
+| 803 | wheels | 1 | <a href="#/README?id=quote-145">145</a> |
+| 804 | steering | 1 | <a href="#/README?id=quote-145">145</a> |
+| 805 | wheel | 1 | <a href="#/README?id=quote-145">145</a> |
+| 806 | connected | 1 | <a href="#/README?id=quote-145">145</a> |
+| 807 | boxing | 1 | <a href="#/README?id=quote-146">146</a> |
+| 808 | wins | 1 | <a href="#/README?id=quote-146">146</a> |
+| 809 | referee | 1 | <a href="#/README?id=quote-146">146</a> |
+| 810 | clumsy | 1 | <a href="#/README?id=quote-146">146</a> |
+| 811 | recursion | 1 | <a href="#/README?id=quote-147">147</a> |
+| 812 | book | 1 | <a href="#/README?id=quote-147">147</a> |
+| 813 | tells | 1 | <a href="#/README?id=quote-147">147</a> |
+| 814 | eventually | 1 | <a href="#/README?id=quote-147">147</a> |
+| 815 | stack | 1 | <a href="#/README?id=quote-147">147</a> |
+| 816 | space | 1 | <a href="#/README?id=quote-147">147</a> |
+| 817 | multithreading | 1 | <a href="#/README?id=quote-148">148</a> |
+| 818 | impressive | 1 | <a href="#/README?id=quote-148">148</a> |
+| 819 | right | 1 | <a href="#/README?id=quote-148">148</a> |
+| 820 | falls | 1 | <a href="#/README?id=quote-148">148</a> |
+| 821 | apart | 1 | <a href="#/README?id=quote-148">148</a> |
+| 822 | messily | 1 | <a href="#/README?id=quote-148">148</a> |
+| 823 | notation | 1 | <a href="#/README?id=quote-149">149</a> |
+| 824 | speedometer | 1 | <a href="#/README?id=quote-149">149</a> |
+| 825 | algorithms | 1 | <a href="#/README?id=quote-149">149</a> |
+| 826 | speed | 1 | <a href="#/README?id=quote-149">149</a> |
+| 827 | limit | 1 | <a href="#/README?id=quote-149">149</a> |
+| 828 | computational | 1 | <a href="#/README?id=quote-149">149</a> |
+| 829 | feasibility | 1 | <a href="#/README?id=quote-149">149</a> |
+| 830 | novel | 1 | <a href="#/README?id=quote-150">150</a> |
+| 831 | victim | 1 | <a href="#/README?id=quote-150">150</a> |
+| 832 | murder | 1 | <a href="#/README?id=quote-150">150</a> |
+| 833 | weapon | 1 | <a href="#/README?id=quote-150">150</a> |
+| 834 | refactoring | 1 | <a href="#/README?id=quote-151">151</a> |
+| 835 | rearranging | 1 | <a href="#/README?id=quote-151">151</a> |
+| 836 | deck | 1 | <a href="#/README?id=quote-151">151</a> |
+| 837 | chairs | 1 | <a href="#/README?id=quote-151">151</a> |
+| 838 | titanic | 1 | <a href="#/README?id=quote-151">151</a> |
+| 839 | nicer | 1 | <a href="#/README?id=quote-151">151</a> |
+| 840 | underlying | 1 | <a href="#/README?id=quote-151">151</a> |
+| 841 | architecture | 1 | <a href="#/README?id=quote-151">151</a> |
+| 842 | flawed | 1 | <a href="#/README?id=quote-151">151</a> |
+| 843 | sink | 1 | <a href="#/README?id=quote-151">151</a> |
+| 844 | teenage | 1 | <a href="#/README?id=quote-152">152</a> |
+| 845 | talks | 1 | <a href="#/README?id=quote-152">152</a> |
+| 846 | thinks | 1 | <a href="#/README?id=quote-152">152</a> |
+| 847 | claims | 1 | <a href="#/README?id=quote-152">152</a> |
+| 848 | flaming | 1 | <a href="#/README?id=quote-153">153</a> |
+| 849 | tightrope | 1 | <a href="#/README?id=quote-153">153</a> |
+| 850 | pit | 1 | <a href="#/README?id=quote-153">153</a> |
+| 851 | alligators | 1 | <a href="#/README?id=quote-153">153</a> |
+| 852 | powerful | 1 | <a href="#/README?id=quote-153">153</a> |
+| 853 | disaster | 1 | <a href="#/README?id=quote-153">153</a> |
+| 854 | toddler | 1 | <a href="#/README?id=quote-154">154</a> |
+| 855 | hammer | 1 | <a href="#/README?id=quote-154">154</a> |
+| 856 | nail | 1 | <a href="#/README?id=quote-154">154</a> |
+| 857 | probably | 1 | <a href="#/README?id=quote-154">154</a> |
+| 858 | shouldn | 1 | <a href="#/README?id=quote-154">154</a> |
+| 859 | near | 1 | <a href="#/README?id=quote-154">154</a> |
+| 860 | valuable | 1 | <a href="#/README?id=quote-154">154</a> |
+| 861 | matures | 1 | <a href="#/README?id=quote-154">154</a> |
+| 862 | virtual | 1 | <a href="#/README?id=quote-155">155</a> |
+| 863 | dreaming | 1 | <a href="#/README?id=quote-155">155</a> |
+| 864 | eyes | 1 | <a href="#/README?id=quote-155">155</a> |
+| 865 | open | 1 | <a href="#/README?id=quote-155">155</a> |
+| 866 | bulky | 1 | <a href="#/README?id=quote-155">155</a> |
+| 867 | headset | 1 | <a href="#/README?id=quote-155">155</a> |
+| 868 | tripping | 1 | <a href="#/README?id=quote-155">155</a> |
+| 869 | furniture | 1 | <a href="#/README?id=quote-155">155</a> |
+| 870 | dreams | 1 | <a href="#/README?id=quote-155">155</a> |
+| 871 | designed | 1 | <a href="#/README?id=quote-155">155</a> |
+| 872 | cryptocurrency | 1 | <a href="#/README?id=quote-156">156</a> |
+| 873 | game | 1 | <a href="#/README?id=quote-156">156</a> |
+| 874 | hot | 1 | <a href="#/README?id=quote-156">156</a> |
+| 875 | worth | 1 | <a href="#/README?id=quote-156">156</a> |
+| 876 | millions | 1 | <a href="#/README?id=quote-156">156</a> |
+| 877 | pennies | 1 | <a href="#/README?id=quote-156">156</a> |
+| 878 | next | 1 | <a href="#/README?id=quote-156">156</a> |
+| 879 | cheetah | 1 | <a href="#/README?id=quote-157">157</a> |
+| 880 | snails | 1 | <a href="#/README?id=quote-157">157</a> |
+| 881 | incredibly | 1 | <a href="#/README?id=quote-157">157</a> |
+| 882 | practical | 1 | <a href="#/README?id=quote-157">157</a> |
+| 883 | reason | 1 | <a href="#/README?id=quote-157">157</a> |
+| 884 | augmented | 1 | <a href="#/README?id=quote-158">158</a> |
+| 885 | giving | 1 | <a href="#/README?id=quote-158">158</a> |
+| 886 | photoshop | 1 | <a href="#/README?id=quote-158">158</a> |
+| 887 | quite | 1 | <a href="#/README?id=quote-158">158</a> |
+| 888 | real | 1 | <a href="#/README?id=quote-158">158</a> |
+| 889 | cybersecurity | 1 | <a href="#/README?id=quote-159">159</a> |
+| 890 | playing | 1 | <a href="#/README?id=quote-159">159</a> |
+| 891 | whack | 1 | <a href="#/README?id=quote-159">159</a> |
+| 892 | mole | 1 | <a href="#/README?id=quote-159">159</a> |
+| 893 | blindfold | 1 | <a href="#/README?id=quote-159">159</a> |
+| 894 | swinging | 1 | <a href="#/README?id=quote-159">159</a> |
+| 895 | hitting | 1 | <a href="#/README?id=quote-159">159</a> |
+| 896 | moles | 1 | <a href="#/README?id=quote-159">159</a> |
+| 897 | evolving | 1 | <a href="#/README?id=quote-159">159</a> |
+| 898 | godzillas | 1 | <a href="#/README?id=quote-159">159</a> |
+| 899 | edge | 1 | <a href="#/README?id=quote-160">160</a> |
+| 900 | tiny | 1 | <a href="#/README?id=quote-160">160</a> |
+| 901 | superhero | 1 | <a href="#/README?id=quote-160">160</a> |
+| 902 | device | 1 | <a href="#/README?id=quote-160">160</a> |
+| 903 | great | 1 | <a href="#/README?id=quote-160">160</a> |
+| 904 | quick | 1 | <a href="#/README?id=quote-160">160</a> |
+| 905 | rescues | 1 | <a href="#/README?id=quote-160">160</a> |
+| 906 | nosql | 1 | <a href="#/README?id=quote-161">161</a> |
+| 907 | databases | 1 | <a href="#/README?id=quote-161">161</a> |
+| 908 | rebellious | 1 | <a href="#/README?id=quote-161">161</a> |
+| 909 | teenager | 1 | <a href="#/README?id=quote-161">161</a> |
+| 910 | chaos | 1 | <a href="#/README?id=quote-161">161</a> |
+| 911 | luck | 1 | <a href="#/README?id=quote-161">161</a> |
+| 912 | figuring | 1 | <a href="#/README?id=quote-161">161</a> |
+| 913 | created | 1 | <a href="#/README?id=quote-161">161</a> |
+| 914 | serverless | 1 | <a href="#/README?id=quote-162">162</a> |
+| 915 | ordering | 1 | <a href="#/README?id=quote-162">162</a> |
+| 916 | food | 1 | <a href="#/README?id=quote-162">162</a> |
+| 917 | worrying | 1 | <a href="#/README?id=quote-162">162</a> |
+| 918 | kitchen | 1 | <a href="#/README?id=quote-162">162</a> |
+| 919 | surprised | 1 | <a href="#/README?id=quote-162">162</a> |
+| 920 | pizza | 1 | <a href="#/README?id=quote-162">162</a> |
+| 921 | arrives | 1 | <a href="#/README?id=quote-162">162</a> |
+| 922 | cold | 1 | <a href="#/README?id=quote-162">162</a> |
+| 923 | expensive | 1 | <a href="#/README?id=quote-162">162</a> |
+| 924 | ai | 1 | <a href="#/README?id=quote-163">163</a> |
+| 925 | beauty | 1 | <a href="#/README?id=quote-163">163</a> |
+| 926 | pageant | 1 | <a href="#/README?id=quote-163">163</a> |
+| 927 | contestants | 1 | <a href="#/README?id=quote-163">163</a> |
+| 928 | masks | 1 | <a href="#/README?id=quote-163">163</a> |
+| 929 | communicating | 1 | <a href="#/README?id=quote-163">163</a> |
+| 930 | through | 1 | <a href="#/README?id=quote-163">163</a> |
+| 931 | translators | 1 | <a href="#/README?id=quote-163">163</a> |
+| 932 | metaverse | 1 | <a href="#/README?id=quote-164">164</a> |
+| 933 | costume | 1 | <a href="#/README?id=quote-164">164</a> |
+| 934 | party | 1 | <a href="#/README?id=quote-164">164</a> |
+| 935 | invited | 1 | <a href="#/README?id=quote-164">164</a> |
+| 936 | guests | 1 | <a href="#/README?id=quote-164">164</a> |
+| 937 | figure | 1 | <a href="#/README?id=quote-164">164</a> |
+| 938 | put | 1 | <a href="#/README?id=quote-164">164</a> |
+| 939 | vr | 1 | <a href="#/README?id=quote-164">164</a> |
+| 940 | headsets | 1 | <a href="#/README?id=quote-164">164</a> |
+| 941 | were | 1 | <a href="#/README?id=quote-165">165</a> |
+| 942 | ssr | 1 | <a href="#/README?id=quote-165">165</a> |
+| 943 | php | 1 | <a href="#/README?id=quote-165">165</a> |
+| 944 | server | 1 | <a href="#/README?id=quote-165">165</a> |
+| 945 | side | 1 | <a href="#/README?id=quote-165">165</a> |
+| 946 | ago | 1 | <a href="#/README?id=quote-165">165</a> |
+| 947 | platform | 1 | <a href="#/README?id=quote-165">165</a> |
+| 948 | collective | 1 | <a href="#/README?id=quote-165">165</a> |
+| 949 | knowledge | 1 | <a href="#/README?id=quote-165">165</a> |
+| 950 | developed | 1 | <a href="#/README?id=quote-165">165</a> |
+| 951 | hip | 1 | <a href="#/README?id=quote-165">165</a> |
+| 952 | wasn | 1 | <a href="#/README?id=quote-165">165</a> |
+| 953 | within | 1 | <a href="#/README?id=quote-165">165</a> |
+| 954 | past | 1 | <a href="#/README?id=quote-165">165</a> |
+| 955 | months | 1 | <a href="#/README?id=quote-165">165</a> |
+| 956 | ads | 1 | <a href="#/README?id=quote-166">166</a> |
+| 957 | annoying | 1 | <a href="#/README?id=quote-166">166</a> |
+| 958 | top | 1 | <a href="#/README?id=quote-167">167</a> |
+| 959 | product | 1 | <a href="#/README?id=quote-167">167</a> |
+| 960 | skills | 1 | <a href="#/README?id=quote-167">167</a> |
+| 961 | excel | 1 | <a href="#/README?id=quote-167">167</a> |
+| 962 | clear | 1 | <a href="#/README?id=quote-167">167</a> |
+| 963 | communication | 1 | <a href="#/README?id=quote-167">167</a> |
+| 964 | prioritization | 1 | <a href="#/README?id=quote-167">167</a> |
+| 965 | cern | 1 | <a href="#/README?id=quote-168">168</a> |
+| 966 | tape | 1 | <a href="#/README?id=quote-168">168</a> |
+| 967 | based | 1 | <a href="#/README?id=quote-168">168</a> |
+| 968 | storage | 1 | <a href="#/README?id=quote-168">168</a> |
+| 969 | since | 1 | <a href="#/README?id=quote-168">168</a> |
+| 970 | durable | 1 | <a href="#/README?id=quote-168">168</a> |
+| 971 | work | 1 | <a href="#/README?id=quote-168">168</a> |
+| 972 | tears | 1 | <a href="#/README?id=quote-168">168</a> |
+| 973 | taped | 1 | <a href="#/README?id=quote-168">168</a> |
+| 974 | together | 1 | <a href="#/README?id=quote-168">168</a> |
+| 975 | few | 1 | <a href="#/README?id=quote-168">168</a> |
+| 976 | files | 1 | <a href="#/README?id=quote-168">168</a> |
+| 977 | lost | 1 | <a href="#/README?id=quote-168">168</a> |
+| 978 | seriously | 1 | <a href="#/README?id=quote-169">169</a> |
+| 979 | truth | 1 | <a href="#/README?id=quote-169">169</a> |
+| 980 | companies | 1 | <a href="#/README?id=quote-169">169</a> |
+| 981 | stolen | 1 | <a href="#/README?id=quote-169">169</a> |
+| 982 | able | 1 | <a href="#/README?id=quote-170">170</a> |
+| 983 | barely | 1 | <a href="#/README?id=quote-170">170</a> |
+| 984 | position | 1 | <a href="#/README?id=quote-170">170</a> |
+| 985 | feel | 1 | <a href="#/README?id=quote-170">170</a> |
+| 986 | starting | 1 | <a href="#/README?id=quote-170">170</a> |
+| 987 | eat | 1 | <a href="#/README?id=quote-170">170</a> |
+| 988 | staring | 1 | <a href="#/README?id=quote-170">170</a> |
+| 989 | walls | 1 | <a href="#/README?id=quote-170">170</a> |
+| 990 | bitcoin | 1 | <a href="#/README?id=quote-172">172</a> |
+| 991 | connects | 1 | <a href="#/README?id=quote-172">172</a> |
+| 992 | running | 1 | <a href="#/README?id=quote-172">172</a> |
+| 993 | share | 1 | <a href="#/README?id=quote-172">172</a> |
+| 994 | single | 1 | <a href="#/README?id=quote-172">172</a> |
+| 995 | file | 1 | <a href="#/README?id=quote-172">172</a> |
+| 996 | called | 1 | <a href="#/README?id=quote-172">172</a> |
+| 997 | stopped | 1 | <a href="#/README?id=quote-173">173</a> |
+| 998 | startups | 1 | <a href="#/README?id=quote-173">173</a> |
+| 999 | bay | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1000 | area | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1001 | somewhat | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1002 | obscured | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1003 | massive | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1004 | surge | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1005 | availability | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1006 | seed | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1007 | funding | 1 | <a href="#/README?id=quote-173">173</a> |
+| 1008 | fed | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1009 | likes | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1010 | facebook | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1011 | points | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1012 | study | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1013 | algorithm | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1014 | knew | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1015 | personality | 1 | <a href="#/README?id=quote-174">174</a> |
+| 1016 | previously | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1017 | blogged | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1018 | pitfalls | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1019 | already | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1020 | known | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1021 | automate | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1022 | service | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1023 | fully | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1024 | blindly | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1025 | trusting | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1026 | automation | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1027 | under | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1028 | hood | 1 | <a href="#/README?id=quote-175">175</a> |
+| 1029 | react | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1030 | hooks | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1031 | api | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1032 | offers | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1033 | little | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1034 | coworkers | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1035 | dying | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1036 | rewrite | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1037 | portions | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1038 | app | 1 | <a href="#/README?id=quote-176">176</a> |
+| 1039 | relationship | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1040 | configuring | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1041 | epiphany | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1042 | sticking | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1043 | defaults | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1044 | preferred | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1045 | choices | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1046 | instantly | 1 | <a href="#/README?id=quote-177">177</a> |
+| 1047 | speedy | 1 | <a href="#/README?id=quote-178">178</a> |
+| 1048 | usually | 1 | <a href="#/README?id=quote-178">178</a> |
+| 1049 | focused | 1 | <a href="#/README?id=quote-178">178</a> |
+| 1050 | web | 1 | <a href="#/README?id=quote-179">179</a> |
+| 1051 | applications | 1 | <a href="#/README?id=quote-179">179</a> |
+| 1052 | frontends | 1 | <a href="#/README?id=quote-179">179</a> |
 
 
 </details>
@@ -1250,8 +1278,11 @@ Total unique words: 1043
 ===word_frequency_end===
 
 
+
 ## 参考资料
 
 https://www.defprogramming.com/
 
 https://github.com/ruanyf/weekly
+
+![Cat](https://raw.githubusercontent.com/zhaoolee/Learn-English-By-Programmer-Jokes/refs/heads/main/docs/_media/bit_cat.jpeg)
