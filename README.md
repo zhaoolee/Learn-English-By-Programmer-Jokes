@@ -30,6 +30,7 @@ Web地址：https://zhaoolee.com/Learn-English-By-Programmer-Jokes/
 - `references/jokes-by-topic.md` 提供按主题整理的速查索引
 - `templates/final-joke-template.txt` 统一最终输出格式
 - `scripts/pick_joke.py` 可以根据任务上下文挑一句中英双语技术段子
+- `skill/learn-english-by-programmer-jokes/` 是可直接发布/分发的独立 skill 文件夹，整个文件夹丢进 `~/.hermes/skills/` 就能自动加载
 
 推荐使用方式：
 
@@ -55,6 +56,8 @@ ZH: 屁话少说，放码过来。
 python scripts/pick_joke.py --query "fixed a nasty bug in the code"
 python scripts/pick_joke.py --query "please review this implementation" --format text
 python main.py
+cp -a skill/learn-english-by-programmer-jokes ~/.hermes/skills/
+hermes skills list | grep -i learn-english-by-programmer-jokes
 ```
 
 ===🔆===

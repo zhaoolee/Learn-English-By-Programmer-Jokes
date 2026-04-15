@@ -6,11 +6,13 @@ import tempfile
 import unittest
 
 from utils.joke_skill import (
+    STANDALONE_SKILL_DIRNAME,
     TOPIC_KEYWORDS,
     JokeRecord,
     build_topic_reference,
     classify_topics,
     format_final_joke,
+    generate_standalone_skill_bundle,
     load_jokes,
     select_joke,
 )
@@ -64,6 +66,40 @@ class JokeSkillTests(unittest.TestCase):
                 f.write(content)
             with open(output_path, "r", encoding="utf-8") as f:
                 self.assertEqual(content, f.read())
+
+    def test_generate_standalone_skill_bundle_creates_drop_in_folder(self):
+        repo_root = os.path.dirname(os.path.dirname(__file__))
+        with tempfile.TemporaryDirectory() as tmpdir:
+            bundle_path = generate_standalone_skill_bundle(repo_root, tmpdir)
+            self.assertEqual(bundle_path.name, STANDALONE_SKILL_DIRNAME)
+            self.assertTrue(os.path.exists(os.path.join(bundle_path, "SKILL.md")))
+            self.assertTrue(os.path.exists(os.path.join(bundle_path, "references", "jokes-by-topic.md")))
+            self.assertTrue(os.path.exists(os.path.join(bundle_path, "references", "joke-selection-rules.md")))
+            self.assertTrue(os.path.exists(os.path.join(bundle_path, "scripts", "pick_joke.py")))
+            self.assertTrue(os.path.exists(os.path.join(bundle_path, "utils", "joke_skill.py")))
+            self.assertTrue(os.path.exists(os.path.join(bundle_path, "jokes_with_id.csv")))
+
+    def test_standalone_bundle_script_runs_directly(self):
+        repo_root = os.path.dirname(os.path.dirname(__file__))
+        with tempfile.TemporaryDirectory() as tmpdir:
+            bundle_path = generate_standalone_skill_bundle(repo_root, tmpdir)
+            result = subprocess.run(
+                [
+                    sys.executable,
+                    os.path.join(bundle_path, "scripts", "pick_joke.py"),
+                    "--query",
+                    "please debug this release bug",
+                    "--format",
+                    "text",
+                ],
+                cwd=bundle_path,
+                capture_output=True,
+                text=True,
+                check=True,
+            )
+            self.assertIn("技术段子 / Tech Joke", result.stdout)
+            self.assertIn("EN:", result.stdout)
+            self.assertIn("ZH:", result.stdout)
 
     def test_pick_joke_script_returns_text_output(self):
         repo_root = os.path.dirname(os.path.dirname(__file__))
