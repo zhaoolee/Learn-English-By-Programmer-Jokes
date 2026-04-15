@@ -1,5 +1,5 @@
 import os
-from utils.joke_skill import generate_skill_assets
+from utils.joke_skill import generate_skill_assets, generate_standalone_skill_bundle
 from utils.update_readme import update_readme
 from utils.word_frequency_from_csv import update_readme_with_word_frequency
 
@@ -10,6 +10,7 @@ def main():
     readme_path = os.path.join(current_dir, 'README.md')
     csv_with_id_path = os.path.join(current_dir, 'jokes_with_id.csv')
     references_dir = os.path.join(current_dir, 'references')
+    standalone_skill_root = os.path.join(current_dir, 'skill')
 
     # Call update_readme function
     print("Updating README with CSV data...")
@@ -22,6 +23,10 @@ def main():
     # Generate Hermes skill reference files
     print("Generating Hermes skill reference files...")
     generate_skill_assets(csv_with_id_path, references_dir)
+
+    # Generate standalone skill bundle for direct drop-in installation / publishing
+    print("Generating standalone Hermes skill bundle...")
+    generate_standalone_skill_bundle(current_dir, standalone_skill_root)
     print("All updates completed successfully.")
 
     # 将README.md文件复制到docs目录下

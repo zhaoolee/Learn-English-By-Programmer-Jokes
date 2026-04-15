@@ -1,0 +1,4 @@
+技术段子 / Tech Joke
+EN: {english}
+ZH: {chinese}
+— {author}
