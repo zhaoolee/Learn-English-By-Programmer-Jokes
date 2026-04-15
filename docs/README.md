@@ -21,6 +21,42 @@ Web地址：https://zhaoolee.com/Learn-English-By-Programmer-Jokes/
 
 源数据地址：https://raw.githubusercontent.com/zhaoolee/Learn-English-By-Programmer-Jokes/refs/heads/main/jokes_with_id.csv
 
+## Hermes Skill 接入
+
+这个仓库现在也可以直接作为 Hermes skill 使用：
+
+- `SKILL.md` 定义了 skill 的入口规则
+- `references/joke-selection-rules.md` 提供按任务类型选段子的规则
+- `references/jokes-by-topic.md` 提供按主题整理的速查索引
+- `templates/final-joke-template.txt` 统一最终输出格式
+- `scripts/pick_joke.py` 可以根据任务上下文挑一句中英双语技术段子
+
+推荐使用方式：
+
+1. 先完成用户的主任务
+2. 再按上下文选择一句相关段子
+3. 用下面的格式附在最终回答末尾：
+
+```text
+技术段子 / Tech Joke
+EN: Talk is cheap. Show me the code.
+ZH: 屁话少说，放码过来。
+— Linus Torvalds
+```
+
+说明：
+- 这是一个 skill 形式的接入，适合做最终答复增强
+- 默认不建议在医疗、法律、危机、悼念等高敏感场景使用
+- 若任务没有明显主题，可回退到经典条目，例如 21、29、16、30
+
+可直接运行：
+
+```bash
+python scripts/pick_joke.py --query "fixed a nasty bug in the code"
+python scripts/pick_joke.py --query "please review this implementation" --format text
+python main.py
+```
+
 ===🔆===
 <table>
 <tr><th width="100"><span>ID</span></th><th width="200"><span>English</span></th><th width="200"><span>Chinese</span></th><th width="150"><span>Author</span></th><th><span>Description</span></th></tr>
